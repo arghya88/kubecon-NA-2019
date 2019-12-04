@@ -1,6 +1,6 @@
-Kubecon 2019 San Diego Notes
 
-#Service Mesh Updates from Kubecon
+
+Service Mesh Updates from Kubecon
 ---------------------------------
 
 Freddie Mac and Tetrate presented use cases and lessions learned from introducing istio in an enterprise having legacy technologies. They were able to use istio to migrate services from brownfield to greenfield (Kubernetes). Using istio they are able to abstract common features such as security, PKI, chaos engineering, micro segmentation, availability etc.K8s does not provide locality aware LB.They are using istio to achieve that. Using istio's additionl metrics such as request volume, response time, sttaus code for auto scaling.Mesh first containerize later approach.Traffic flows between services running on VMs and services running on k8s was enabled using istio.Challenges faced around:
