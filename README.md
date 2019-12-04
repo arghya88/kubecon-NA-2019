@@ -60,7 +60,7 @@ https://www.youtube.com/watch?v=I-3oHb6lqdU
 https://static.sched.com/hosted_files/kccncna19/d8/mesh-metrics-istio-v2%20%282%29.pptx
 
 
-#NSMCon Updates
+NSMCon Updates
 --------------
 
 Layer5 talked about adopting meshery with network service mesh. Meshery is the multi-service mesh management planeThey have a book called the enterprise path to service mesh architectures.
@@ -71,7 +71,7 @@ There was a talk by cisco on combined usage of istio as application layer servic
 
 https://drive.google.com/file/d/1gCstid5plU16ogcAlT83-EOvT25HNc_F/view?usp=sharing
 
-#EnvoyCon Updates
+EnvoyCon Updates
 ----------------
 
 AWS has built service mesh called appmesh which uses envoy as data plane. It works with any kubernetes cluster, envoy running in EC2. Presentation includes high level archi of the control plane.
@@ -99,6 +99,6 @@ Stripe presented their custom control plane built for envoy to support custom xD
 https://www.youtube.com/watch?v=QYCsd4Ptwzo
 https://static.sched.com/hosted_files/envoycon2019/4a/dylan-carney-envoycon.pdf
 
-#ServiceMeshCon Updates
+ServiceMeshCon Updates
 ----------------------
 TODO
