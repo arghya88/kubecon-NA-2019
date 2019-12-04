@@ -13,6 +13,7 @@ Service endpoints were scattered across multiple systems and with a centralized 
 They talk about a use where they replaced a H/W LB with istio gateway.  
 
 https://www.youtube.com/watch?v=Rako7zKXquU
+
 https://static.sched.com/hosted_files/kccncna19/63/Tetrate%20-%20Freddie%20Mac%20-%20Istio%20Service%20Mesh.pdf
 
 Nordstorm presented their experience of using linkerd service mesh in an heterogenious environment consisting of Kubernetes on AWS, GKE and VMs on on prem and AWS EC2 and AWS Lambda. Low latency per requests and high scalability(memory per pod) of linkered led them to choose linkerd over other open source options such as istio. Forked linkerd to use AWS Certificate Manager Private Certificate Authority (ACM PCA). Using experimental feature of CNI Plugin capability of linkerd.
