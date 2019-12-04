@@ -6,7 +6,7 @@ Updates from Kubecon
 
 Freddie Mac and Tetrate presented use cases and lessions learned from introducing istio in an enterprise having legacy technologies. They were able to use istio to migrate services from brownfield to greenfield (Kubernetes). Using istio they are able to abstract common features such as security, PKI, chaos engineering, micro segmentation, availability etc.K8s does not provide locality aware LB.They are using istio to achieve that. Using istio's additionl metrics such as request volume, response time, sttaus code for auto scaling.Mesh first containerize later approach.Traffic flows between services running on VMs and services running on k8s was enabled using istio.Challenges faced around:
 
-Asymetric network connectivity - pods acn talk to VMs but VMs can not talk to pods because it was not a flat network.
+Asymetric network connectivity - pods can talk to VMs but VMs can not talk to pods because it was not a flat network.
 Certificate was from Venafi and application specific and was used by Weblogic and Websphere servers which hosted their legacy apps.
 Incoming traffic and outgoing traffic to and from VMs through a sidecar typically does not play well with weblogic, websphere etc.
 Service endpoints were scattered across multiple systems and with a centralized service registry its tough to use istio.
