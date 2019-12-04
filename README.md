@@ -1,7 +1,7 @@
-                                                Service Mesh Updates
-                                                --------------------
+Service Mesh
+--------------------
 
-Service Mesh Updates from Kubecon
+Updates from Kubecon
 ---------------------------------
 
 Freddie Mac and Tetrate presented use cases and lessions learned from introducing istio in an enterprise having legacy technologies. They were able to use istio to migrate services from brownfield to greenfield (Kubernetes). Using istio they are able to abstract common features such as security, PKI, chaos engineering, micro segmentation, availability etc.K8s does not provide locality aware LB.They are using istio to achieve that. Using istio's additionl metrics such as request volume, response time, sttaus code for auto scaling.Mesh first containerize later approach.Traffic flows between services running on VMs and services running on k8s was enabled using istio.Challenges faced around:
@@ -61,8 +61,8 @@ https://www.youtube.com/watch?v=I-3oHb6lqdU
 https://static.sched.com/hosted_files/kccncna19/d8/mesh-metrics-istio-v2%20%282%29.pptx
 
 
-NSMCon Updates
---------------
+Updates from NSMCon 
+-------------------
 
 Layer5 talked about adopting meshery with network service mesh. Meshery is the multi-service mesh management planeThey have a book called the enterprise path to service mesh architectures.
 
@@ -72,8 +72,8 @@ There was a talk by cisco on combined usage of istio as application layer servic
 
 https://drive.google.com/file/d/1gCstid5plU16ogcAlT83-EOvT25HNc_F/view?usp=sharing
 
-EnvoyCon Updates
-----------------
+Updates from EnvoyCon 
+---------------------
 
 AWS has built service mesh called appmesh which uses envoy as data plane. It works with any kubernetes cluster, envoy running in EC2. Presentation includes high level archi of the control plane.
 
@@ -100,6 +100,6 @@ Stripe presented their custom control plane built for envoy to support custom xD
 https://www.youtube.com/watch?v=QYCsd4Ptwzo
 https://static.sched.com/hosted_files/envoycon2019/4a/dylan-carney-envoycon.pdf
 
-ServiceMeshCon Updates
-----------------------
+Updates from ServiceMeshCon 
+---------------------------
 TODO
