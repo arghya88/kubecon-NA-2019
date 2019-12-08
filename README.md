@@ -121,3 +121,9 @@ https://drive.google.com/drive/folders/1BTJxvoIazdzojcsee6fUgZynUVOZVYg9
 
 https://static.sched.com/hosted_files/servicemeshcon2019/af/ServiceMeshCon%20Connecting%20and%20Migrating%20Heterogeneous%20Applications%20with%20Consul%20Service%20Mesh.pdf
 
+Pinterest presented service mesh control plane in heterogenious environment. They have built a control plane using golang which serves envoy xDs v2 API and EDS. They also use zookeeper for storage and messaging.
+
+https://drive.google.com/drive/folders/1BTJxvoIazdzojcsee6fUgZynUVOZVYg9
+
+https://static.sched.com/hosted_files/servicemeshcon2019/1c/Control%20Plane%20for%20a%20Mesh%20in%20a%20Heterogeneous%20Environment.pdf
+
