@@ -115,4 +115,9 @@ https://static.sched.com/hosted_files/envoycon2019/4a/dylan-carney-envoycon.pdf
 
 Updates from ServiceMeshCon 
 ---------------------------
-TODO
+Hashicorp demoed migrated a service from a VM to kubernetes and performed traffic shifting without any downtime. They use consul service mesh using SPIFEE Id in an mTLs setup. Installed consul in both VM and kubernetes and connected to each other in federation mode. Hence service discovery between VM and kubernetes was achieved.
+
+https://drive.google.com/drive/folders/1BTJxvoIazdzojcsee6fUgZynUVOZVYg9
+
+https://static.sched.com/hosted_files/servicemeshcon2019/af/ServiceMeshCon%20Connecting%20and%20Migrating%20Heterogeneous%20Applications%20with%20Consul%20Service%20Mesh.pdf
+
