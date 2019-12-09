@@ -1,7 +1,7 @@
 Buildpacks
 --------------------
 
-Pivotal and Heroku presented intro to cloud native builpdack. Cloud native buildpack is implementation of CNB Spec(https://github.com/buildpack/spec). The platform interface is implemeneted by pack,kpack,heroku,tekton,google cloud run button.
+Pivotal and Heroku presented intro to cloud native builpdack. Cloud native buildpack is implementation of CNB Spec(https://github.com/buildpack/spec). The platform interface is implemeneted by pack,kpack,heroku,tekton,google cloud run button. The docker image is built out of multiple layers and so if there is a CVE in OS Layer it can be rebuilt with a rebase.They demoed using Kpack to rebase images at scale in k8s automatically. Riff uses kpack as a building block to offer function as a service.
 
 
 https://www.youtube.com/watch?v=SK6e_ZatOaw
