@@ -7,6 +7,10 @@ There is a simillar but non overlapping project called cnab.io.
 
 https://www.youtube.com/watch?v=SK6e_ZatOaw
 
+Pivotal presented deep dive on cloud native buildpacks.
+
+https://www.youtube.com/watch?v=j9Ak5YLrihU
+
 Service Mesh
 --------------------
 
