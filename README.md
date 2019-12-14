@@ -388,30 +388,21 @@ SIG-Network Intro & Deep-Dive - Tim Hockin, Google & Vallery Lancey, Lyft|[Video
 
 | Topic        |      Youtube(Video)     |  Sched(Slides) |
 | ------------- |:-------------:| -----:|
-|Five Things You Didn’t Know You Could Do with SPIFFE and SPIRE - Andrew Jessup & Andrés Vega|[Video](https://www.youtube.com/watch?v=5m6kjzdysBI)|[Presentation](./Presentation/five-things-you-didnt-know-you-could-do-with-spiffe-and-spire-andrew-jessup-andres-vega-scytale.pdf)|
+|Five Things You Didn’t Know You Could Do with SPIFFE and SPIRE - Andrew Jessup & Andrés Vega|[Video](https://www.youtube.com/watch?v=5m6kjzdysBI)|[Presentation](https://static.sched.com/hosted_files/kccncna19/f6/Five%20things%20you%20didn’t%20know%20you%20could%20do%20with%20SPIFFE%20and%20SPIRE.pdf)|
 |Sharing is Caring: How to Begin Speaking at Conferences - Jenny Burcio & Ashlynn Polini, Docker|[Video](https://www.youtube.com/watch?v=vwZC6zXq2NQ)| - |
-|Fluentd: Cloud Native Logging - Yuta Iwama, Arm Treasure Data & Masahiro Nakagawa, Arm Treasure Data|[Video](https://www.youtube.com/watch?v=wyRK26s34M0)|[Presentation](./Presentation/fluentd-cloud-native-logging-yuta-iwama-masahiro-nakagawa-arm-treasure-data.pdf)|
-|Mental Health in Tech - Dr. Jennifer Akullian, Growth Coaching Institute|[Video](https://www.youtube.com/watch?v=G-SdeRBHc9M)|[Presentation](./Presentation/mental-health-in-tech-dr-jennifer-akullian-growth-coaching-institute.pdf)|
-|The Release Team Shadow Program - Mentoring For the Future - Guinevere Saenger & Lachlan Evenson|[Video](https://www.youtube.com/watch?v=ritHCLd2xeE)|[Presentation](./Presentation/the-release-team-shadow-program-mentoring-for-the-future-guinevere-saenger-github-lachlan-evenson-microsoft.pdf)|
+|Fluentd: Cloud Native Logging - Yuta Iwama, Arm Treasure Data & Masahiro Nakagawa, Arm Treasure Data|[Video](https://www.youtube.com/watch?v=wyRK26s34M0)|[Presentation](https://static.sched.com/hosted_files/kccncna19/e4/CNCFCon_KubeCon%20NA%202019.pdf)|
+|Mental Health in Tech - Dr. Jennifer Akullian, Growth Coaching Institute|[Video](https://www.youtube.com/watch?v=G-SdeRBHc9M)|[Presentation](https://static.sched.com/hosted_files/kccncna19/bc/MentalHealthinTech_Kubecon_DrAkullian.pdf)|
+|The Release Team Shadow Program - Mentoring For the Future - Guinevere Saenger & Lachlan Evenson|[Video](https://www.youtube.com/watch?v=ritHCLd2xeE)|[Presentation](https://static.sched.com/hosted_files/kccncna19/60/The%20Release%20Team%20Shadow%20Program%20-%20Mentoring%20For%20The%20Future.pdf)|
 |CNCF Project Maintainers Birds of a Feather - Amye Scavarda, Cloud Native Computing Foundation|[Video](https://www.youtube.com/ewatch?v=bhmIR-sIbUk)| - |
 |Community Bridge BoF - Ihor Dvoretskyi, Cloud Native Computing Foundation & Shubhra Kar, Linux|[Video](https://www.youtube.com/watch?v=R-hHyijnugc)| - |
 |Securing the Software Supply Chain with in-toto - Santiago Torres-Arias & Justin Cappos, NYU|[Video](https://www.youtube.com/watch?v=53eEOyev9lM)| - |
 |Birds of a Feather (BoF): SODA: The Path To Data Autonomy - Steven Tan & Anjaneya "Reddy" Chagam|[Video](https://www.youtube.com/watch?v=qEx23aF7eXc)| - |
 |Cloud Provider Subproject AWS / User Group AWS - Nishi Davidson, Pulumi & Justin SB, Google|[Video](https://www.youtube.com/watch?v=z6LlhFfFGQM)| - |
-|How to Migrate a MySQL Database to Vitess - Sugu Sougoumarane & Morgan Tocker|[Video](https://www.youtube.com/watch?v=OCS45iy5v1M)|[Presentation](./Presentation/how-to-migrate-a-mysql-database-to-vitess-sugu-sougoumarane-morgan-tocker-planetscale.pdf)|
-|Component Standard Working Group - Leigh Capili, Weaveworks & Michael Taufen, Google|[Video](https://www.youtube.com/watch?v=ujI6D6AcIik)|[Presentation](./Presentation/component-standard-working-group-leigh-capili-weaveworks-michael-taufen-google.pdf)|
+|How to Migrate a MySQL Database to Vitess - Sugu Sougoumarane & Morgan Tocker|[Video](https://www.youtube.com/watch?v=OCS45iy5v1M)|[Presentation](https://static.sched.com/hosted_files/kccncna19/7f/Migrating%20MySQL%20to%20Vitess%40SanDiego%20%281%29.pdf)|
+|Component Standard Working Group - Leigh Capili, Weaveworks & Michael Taufen, Google|[Video](https://www.youtube.com/watch?v=ujI6D6AcIik)|[Presentation](https://static.sched.com/hosted_files/kccncna19/49/WG%20Component%20Standard%20KubeCon%202019.pdf)|
 |Panel: State of the Kubernetes Union - Steering Committee Discussion -|[Video](https://www.youtube.com/watch?v=0Su1kKlr9q0)| - |
 |Cloud Native Runtime Security with Falco - Kris Nova, Sysdig & Abhinav Srivastava, Frame.io|[Video](https://www.youtube.com/watch?v=Z4POV5IXnHQ)| - |
-|Liberating Kubernetes From Kube-proxy and Iptables - Martynas Pumputis, Cilium|[Video](https://www.youtube.com/watch?v=bIRweleSIwNHC0)| - |
-|Tinder's Move to Kubernetes - Chris O'Brien & Chris Thomas, Tinder|[Video](https://www.youtube.com/watch?v=o3WXPXDuCSU)|[Presentation](./Presentation/tinders-move-to-kubernetes-chris-obrien-chris-thomas-tinder.pdf)|
-|Envoy on Fire: A Practical Look at Debugging a Service Mesh - Lita Cho & Ryan Cox, Lyft|[Video](https://www.youtube.com/watch?v=6jnzo8QXyDk)| - |
-|Storage on Kubernetes - Learning From Failures - Hemant Kumar & Jan Šafránek, Red Hat|[Video](https://www.youtube.com/watch?v=zuGjw595OiQ)|[Presentation](./Presentation/storage-on-kubernetes-learning-from-failures-hemant-kumar-jan-safranek-red-hat.pdf)|
-|Liberating Kubernetes From Kube-proxy and Iptables - Martynas Pumputis, Cilium|[Video](https://www.youtube.com/watch?v=bIRwSIwNHC0)| - |
-|Kubernetes at Reddit: Tales from Production - Greg Taylor, Reddit, Inc|[Video](https://www.youtube.com/watch?v=WTbIBqNcjoQ)|[Presentation](./Presentation/kubernetes-at-reddit-tales-from-production-greg-taylor-reddit-inc.pdf)|
-|The Gotchas of Zero-Downtime Traffic /w Kubernetes - Leigh Capili, Weaveworks|[Video](https://www.youtube.com/watch?v=0o5C12kzEDI)| - |
-|Liberating Kubernetes From Kube-proxy and Iptables - Martynas Pumputis, Cilium|[Video](https://www.youtube.com/watch?v=hV8mtZSlJ-w)| - |
-|Am I Using It Right? Checking Best Practices on Live Kuber... Varsha Varadarajan & Adam Wolfe Gordon|[Video](https://www.youtube.com/watch?v=R3u2CqCJkSU)| - |
-|A Week in the Life of the Kubernetes Community - Dawn Foster, Pivotal & Jorge Castro, VMware|[Video](https://www.youtube.com/watch?v=unewi6wFwmI)|[Presentation](./Presentation/a-week-in-the-life-of-the-kubernetes-community-dawn-foster-pivotal-jorge-castro-vmware.pdf)|
+|A Week in the Life of the Kubernetes Community - Dawn Foster, Pivotal & Jorge Castro, VMware|[Video](https://www.youtube.com/watch?v=unewi6wFwmI)|[Presentation](https://static.sched.com/hosted_files/kccncna19/45/A%20Week%20in%20the%20Life%20of%20Kubernetes.pdf)|
 |Day 2 Operations with Windows Containers - Michael Michael, VMware & Patrick Lang, Microsoft|[Video](https://www.youtube.com/watch?v=t_e8SSkpdxU)|[Presentation](./Presentation/day-2-operations-with-windows-containers-michael-michael-vmware-patrick-lang-microsoft.pdf)|
 |Using TUF and in-toto to Tighten the Release Process. - Santiago Torres-Arias & Justin Cappos|[Video](https://www.youtube.com/watch?v=RzxDLrQgEzo)|-|
 |CNCF Research User Group - Bob Killen, University of Michigan|[Video](https://www.youtube.com/watch?v=5WacjeanofM)|[Presentation](./Presentation/cncf-research-user-group-bob-killen-university-of-michigan.pdf)|
