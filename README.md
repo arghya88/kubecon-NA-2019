@@ -96,11 +96,12 @@
  
 | Topic        |      Video     |  Presentation |
 | ------------- |:-------------:| -----:|
-|KubeFlow’s Serverless Component: 10x Faster, a 1/10 of the Effort - Orit Nissan-Messing, Iguazio|[Watch Here](https://www.youtube.com/watch?v=GmCpdRRFmxw)| [Slides](./slides/kubeflows-serverless-component-10x-faster-a-110-of-the-effort-orit-nissan-messing-iguazio.pdf)|
+|KubeFlow’s Serverless Component: 10x Faster, a 1/10 of the Effort - Orit Nissan-Messing, Iguazio|[Watch Here](https://www.youtube.com/watch?v=GmCpdRRFmxw)| [Slides](https://static.sched.com/hosted_files/kccncna19/f1/Serverless%20Kubeflow%20Orit%20NM.pdf)|
+|OpenFaaS Cloud + Linkerd: A Secure, Multi-Tenant Serverless Platform - Charles Pretzer, Buoyant & Alex Ellis, OpenFaaS, LTD|[Watch Here](https://www.youtube.com/watch?v=sD7hCwq3Gw0)|[Slides](https://static.sched.com/hosted_files/kccncna19/f3/openfaas_cloud_linkerd_19_nov_pdf.pdf)|
 |Scaling Your Cluster (Both Ways) - Scott Coulton & Patrick Chanezon, Microsoft|[Watch Here](https://www.youtube.com/watch?v=maHv_mtByOY)|-|
-|Serverless Platform for Large Scale Mini-Apps: From Knative to Production - Yitao Dong & Ke Wang|[Watch Here](https://www.youtube.com/watch?v=PA1UoLPf4nE)| [Slides](./slides/serverless-platform-for-large-scale-mini-apps-from-knative-to-production-yitao-dong-ke-wang-ant-financial.pptx )|
-|KEDA: Event Driven and Serverless Containers in Kubernetes - Jeff Hollan, Microsoft|[Watch Here](https://www.youtube.com/watch?v=ZK2SS_GXF-g)| [Slides](./slides/keda-event-driven-and-serverless-containers-in-kubernetes-jeff-hollan-microsoft.pptx)|
-|Cloud Native Smart Contract with Knative - Jay Guo & Ying Chun Guo, IBM|[Watch Here](https://www.youtube.com/watch?v=pMuJQutqt7c)| [Slides](./slides/cloud-native-smart-contract-with-knative-jay-guo-ying-chun-guo-ibm.pdf)|
+|Serverless Platform for Large Scale Mini-Apps: From Knative to Production - Yitao Dong & Ke Wang|[Watch Here](https://www.youtube.com/watch?v=PA1UoLPf4nE)| [Slides](https://static.sched.com/hosted_files/kccncna19/80/kubecon-20191119%281%29_62.pptx)|
+|KEDA: Event Driven and Serverless Containers in Kubernetes - Jeff Hollan, Microsoft|[Watch Here](https://www.youtube.com/watch?v=ZK2SS_GXF-g)| [Slides](https://static.sched.com/hosted_files/kccncna19/a5/KubeCon_2019%20-%20KEDA.pptx)|
+|Cloud Native Smart Contract with Knative - Jay Guo & Ying Chun Guo, IBM|[Watch Here](https://www.youtube.com/watch?v=pMuJQutqt7c)| [Slides](https://static.sched.com/hosted_files/kccncna19/f8/Smart%20Contract%20on%20Knative%20KubeCon.pdf)|
 
 ## Security + Identity + Policy
 
