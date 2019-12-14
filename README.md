@@ -28,15 +28,15 @@
  
 | Topic        |      Video     |  Presentation |
 | ------------- |:-------------:| -----:|
-|Tutorial: Attacking and Defending Kube... Brad Geesaman, Jimmy Mesta, Tabitha Sable & Peter Benjamin|[Watch Here](https://www.youtube.com/watch?v=UdMFTdeAL1s)| [Slides](./slides/tutorial-attacking-and-defending-kubernetes-clusters-a-guided-tour-brad-geesaman-brad-geesaman-consulting-jimmy-mesta-ksoc-inc-tabitha-sable-independent-peter-benjamin-teradata-limited-available-seating-first-come-first-served-basis.pdf )|
+|Tutorial: Attacking and Defending Kube... Brad Geesaman, Jimmy Mesta, Tabitha Sable & Peter Benjamin|[Watch Here](https://www.youtube.com/watch?v=UdMFTdeAL1s)| [Slides](https://static.sched.com/hosted_files/kccncna19/32/KubeCon%20NA%202019%20Tutorial%20and%20CTF%20-%20Attacking%20and%20Defending%20Kubernetes%20Clusters_%20A%20Guided%20Tour.pdf)|
 |Tutorial: Service Mesh for the Developer Workflow - Christian Posta & Nic Jackson|[Watch Here](https://www.youtube.com/watch?v=uC2O36QKUlc)|-|
-|Tutorial: Debug Your Kubernetes Apps - Arun Gupta & Re Alvarez Parmar, Amazon|[Watch Here](https://www.youtube.com/watch?v=058bKrbw8jg)|-|
-|Tutorial: Mastering Multi-version CRDs: From YAML to a Serious Devel... Stefan Schimanski & Joe Betz|[Watch Here](https://www.youtube.com/watch?v=AAxuEPIzHUQ)| [Slides](./slides/tutorial-mastering-multi-version-crds-from-yaml-to-a-serious-development-project-stefan-schimanski-red-hat-joe-betz-google-limited-available-seating-first-come-first-served-basis.pdf )|
-|Tutorial: Zero to Operator in 90 Minutes! - Solly Ross, Google|[Watch Here](https://www.youtube.com/watch?v=KBTXBUVNF2I)| [Slides](./slides/tutorial-zero-to-operator-in-90-minutes-solly-ross-google-limited-available-seating-first-come-first-served-basis.pdf ) |
+|Tutorial: Debug Your Kubernetes Apps - Arun Gupta & Re Alvarez Parmar, Amazon|[Watch Here](https://www.youtube.com/watch?v=058bKrbw8jg)|[Slides](https://static.sched.com/hosted_files/kccncna19/92/Kubecon%202019%20San%20Diego%20-%20Tutorial%20-%20Debug%20your%20Kubernetes%20apps.pdf)|
+|Tutorial: Mastering Multi-version CRDs: From YAML to a Serious Devel... Stefan Schimanski & Joe Betz|[Watch Here](https://www.youtube.com/watch?v=AAxuEPIzHUQ)| [Slides](https://static.sched.com/hosted_files/kccncna19/e8/KubeCon%20NA%2019_%20Multi-version%20CRDs.pdf)|
+|Tutorial: Zero to Operator in 90 Minutes! - Solly Ross, Google|[Watch Here](https://www.youtube.com/watch?v=KBTXBUVNF2I)| [Slides](https://static.sched.com/hosted_files/kccncna19/fc/presentation.rendered.pdf) |
 |Tutorial: A Kind Workflow for Contri... Benjamin Elder, Duffie Cooley, James Munnelly & Patrick Lang|[Watch Here](https://www.youtube.com/watch?v=BPVO2mcfjJk)|-|
 |Tutorial: Deep Dive into the Operator Framework for... Melvin Hillsman, Michael Hrivnak, & Matt Dorn|[Watch Here](https://www.youtube.com/watch?v=8_DaCcRMp5I)|-|
-|Tutorial: From Notebook to Kubeflow Pipel... Michelle Casbon, Stefano Fioravanzo & Ilias Katsakioris|[Watch Here](https://www.youtube.com/watch?v=C9rJzTzVzvQ)| [Slides](./slides/tutorial-from-notebook-to-kubeflow-pipelines-an-end-to-end-data-science-workflow-michelle-casbon-google-stefano-fioravanzo-fondazione-bruno-kessler-ilias-katsakioris-arrikto-limited-available-seating-first-come-first-served-basis.pdf )|
-|Tutorial: Everything You Need To Become a GitOps Ninja - Alex Collins & Alexander Matyushentsev|[Watch Here](https://www.youtube.com/watch?v=r50tRQjisxw)| [Slides](./slides/tutorial-everything-you-need-to-become-a-gitops-ninja-alex-collins-alexander-matyushentsev-intuit-limited-available-seating-first-come-first-served-basis.pdf)|
+|Tutorial: From Notebook to Kubeflow Pipel... Michelle Casbon, Stefano Fioravanzo & Ilias Katsakioris|[Watch Here](https://www.youtube.com/watch?v=C9rJzTzVzvQ)| [Slides](https://static.sched.com/hosted_files/kccncna19/18/From%20Notebook%20to%20Kubeflow%20Pipelines.pdf)|
+|Tutorial: Everything You Need To Become a GitOps Ninja - Alex Collins & Alexander Matyushentsev|[Watch Here](https://www.youtube.com/watch?v=r50tRQjisxw)| [Slides](https://static.sched.com/hosted_files/kccncna19/19/Everything%20You%20Need%20To%20Become%20a%20GitOps%20Ninja.pdf)|
 
 ## Networking
 | Topic        |      Video     |  Presentation |
