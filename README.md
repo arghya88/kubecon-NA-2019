@@ -145,15 +145,15 @@
 
 | Topic        |      Video     |  Presentation |
 | ------------- |:-------------:| -----:|
-|Beyond Storage Management - Andrew Large & Yinan Li, Google|[Watch Here](https://www.youtube.com/watch?v=m-9MX9Pxh6A)| [Slides](./slides/beyond-storage-management-andrew-large-yinan-li-google.pdf)|
-|Building Blocks: How Raw Block PVs Changed the Way We Look at Storage - Jose A. Rivera & Rohan Gupta|[Watch Here](https://www.youtube.com/watch?v=5j4ViEfVcWg)| [Slides](./slides/building-blocks-how-raw-block-pvs-changed-the-way-we-look-at-storage-jose-a-rivera-rohan-gupta-red-hat.pdf)|
-|Building a Database as a Service on Kubernetes - Abhi Vaidyanatha & Lucy Burns, PlanetScale|[Watch Here](https://www.youtube.com/watch?v=469NOldFOgw)| [Slides](./slides/building-a-database-as-a-service-on-kubernetes-abhi-vaidyanatha-lucy-burns-planetscale.pdf)|
-|Vitess: Stateless Storage in the Cloud - Sugu Sougoumarane, PlanetScale|[Watch Here](https://www.youtube.com/watch?v=z63dtNj6ctY)| [Slides](./slides/ ) |
-|How to Backup and Restore Your Kubernetes Cluster - Annette Clewett & Dylan Murray, Red Hat|[Watch Here](https://www.youtube.com/watch?v=JyzgS-KKuoo)| [Slides](./slides/how-to-backup-and-restore-your-kubernetes-cluster-annette-clewett-dylan-murray-red-hat.pdf)|
-|Storage on Kubernetes - Learning From Failures - Hemant Kumar & Jan Šafránek, Red Hat|[Watch Here](https://www.youtube.com/watch?v=zuGjw595OiQ)| [Slides](./slides/storage-on-kubernetes-learning-from-failures-hemant-kumar-jan-safranek-red-hat.pdf)|
+|Beyond Storage Management - Andrew Large & Yinan Li, Google|[Watch Here](https://www.youtube.com/watch?v=m-9MX9Pxh6A)| [Slides](https://static.sched.com/hosted_files/kccncna19/22/Beyond%20Storage%20Management.pdf)|
+|Building Blocks: How Raw Block PVs Changed the Way We Look at Storage - Jose A. Rivera & Rohan Gupta|[Watch Here](https://www.youtube.com/watch?v=5j4ViEfVcWg)| [Slides](https://static.sched.com/hosted_files/kccncna19/da/Building%20Blocks%20-%20KubeCon%20NA%202019.pdf)|
+|Building a Database as a Service on Kubernetes - Abhi Vaidyanatha & Lucy Burns, PlanetScale|[Watch Here](https://www.youtube.com/watch?v=469NOldFOgw)| [Slides](https://static.sched.com/hosted_files/kccncna19/bd/Building%20a%20Cloud%20Database.pdf)|
+|Vitess: Stateless Storage in the Cloud - Sugu Sougoumarane, PlanetScale|[Watch Here](https://www.youtube.com/watch?v=z63dtNj6ctY)| [Slides](https://static.sched.com/hosted_files/kccncna19/41/Vitess%40SanDiego.pdf) |
+|How to Backup and Restore Your Kubernetes Cluster - Annette Clewett & Dylan Murray, Red Hat|[Watch Here](https://www.youtube.com/watch?v=JyzgS-KKuoo)| [Slides](https://static.sched.com/hosted_files/kccncna19/8a/How%20to%20Backup%20and%20Recover%20Your%20Kubernetes%20Cluster.pdf)|
+|Storage on Kubernetes - Learning From Failures - Hemant Kumar & Jan Šafránek, Red Hat|[Watch Here](https://www.youtube.com/watch?v=zuGjw595OiQ)| [Slides](https://static.sched.com/hosted_files/kccncna19/ed/slides.pdf)|
 |Kubernetes Storage Cheat Sheet for VM Administrators - Manu Batra & Jing Xu, Google|[Watch Here](https://www.youtube.com/watch?v=Qbfp2QJ-Png)|-|
-|CSI Volume Snapshots: On the Way to Faster and Better Backups - Adnan Abdulhussein & Nolan Brubaker|[Watch Here](https://www.youtube.com/watch?v=CbA40krYZf0)| [Slides](./slides/csi-volume-snapshots-on-the-way-to-faster-and-better-backups-adnan-abdulhussein-nolan-brubaker-vmware.pdf)|
-|Rook: Cloud-Native Storage Orchestr... Jared Watts, Bassam Tabbara, Travis Nielsen & Alexander Trost|[Watch Here](https://www.youtube.com/watch?v=f3Wyk968VR8)|-|
+|CSI Volume Snapshots: On the Way to Faster and Better Backups - Adnan Abdulhussein & Nolan Brubaker|[Watch Here](https://www.youtube.com/watch?v=CbA40krYZf0)| [Slides](https://static.sched.com/hosted_files/kccncna19/b2/CSI%20Volume%20Snapshots_%20On%20the%20Way%20to%20Faster%20and%20Better%20Backups.pdf)|
+|Rook: Cloud-Native Storage Orchestr... Jared Watts, Bassam Tabbara, Travis Nielsen & Alexander Trost|[Watch Here](https://www.youtube.com/watch?v=f3Wyk968VR8)|[Slides](https://static.sched.com/hosted_files/kccncna19/78/Kubecon%20San%20Diego%20-%20Rook%20Project%20Intro.pdf)|
 
 ## CI/CD
 
