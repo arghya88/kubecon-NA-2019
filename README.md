@@ -127,19 +127,19 @@
 
 | Topic        |      Video     |  Presentation |
 | ------------- |:-------------:| -----:|
-|Kubernetes at Cruise: Two Years of Multitenancy - Karl Isenberg, Cruise|[Watch Here](https://www.youtube.com/watch?v=m19D9vZ1QFQ)| [Slides](./slides/kubernetes-at-cruise-two-years-of-multitenancy-karl-isenberg-cruise.pdf)|
-|Scaling Resilient Systems: A Journey into Slack's Database Service - Rafael Chacon & Guido Iaquinti|[Watch Here](https://www.youtube.com/watch?v=aTItjMJE17c)| [Slides](./slides/scaling-resilient-systems-a-journey-into-slacks-database-service-rafael-chacon-guido-iaquinti-slack.pdf)|
-|Running Istio and Kubernetes On-prem at Yahoo Scale - Suresh Visvanathan & Mrunmayi Dhume, Verizon|[Watch Here](https://www.youtube.com/watch?v=fEaVU1i-fOQ)| [Slides](./slides/running-istio-and-kubernetes-on-prem-at-yahoo-scale-suresh-visvanathan-mrunmayi-dhume-verizon.pdf)|
-|10 Weird Ways to Blow Up Your Kubernetes - Melanie Cebula & Bruce Sherrod, Airbnb|[Watch Here](https://www.youtube.com/watch?v=FrQ8Lwm9_j8)|-|
-|Making an Internal Kubernetes Offering Generally Available - James Wen, Spotify|[Watch Here](https://www.youtube.com/watch?v=vLrxOhZ6Wrg)| [Slides](./slides/making-an-internal-kubernetes-offering-generally-available-james-wen-spotify.pdf)|
-|Case Study: AI-as-a-Service on Kubernetes at Scale and In Production - Itay Gabbay|[Watch Here](https://www.youtube.com/watch?v=LnXlZN8J6w0)| [Slides](./slides/case-study-ai-as-a-service-on-kubernetes-at-scale-and-in-production-itay-gabbay-israel-ministry-of-defense-mod-tushar-katarki-red-hat.pdf)|
-|Moving from Legacy Infrastructure to the Cloud in a Government Organization - Chris Carty|[Watch Here](https://www.youtube.com/watch?v=oBuOf-IvHWQ)| [Slides](./slides/moving-from-legacy-infrastructure-to-the-cloud-in-a-government-organization-chris-carty-city-of-ottawa.pdf)|
+|Kubernetes at Cruise: Two Years of Multitenancy - Karl Isenberg, Cruise|[Watch Here](https://www.youtube.com/watch?v=m19D9vZ1QFQ)| [Slides](https://static.sched.com/hosted_files/kccncna19/14/Kubernetes%20Multitenancy%20-%20Karl%20Isenberg%20-%20KubeCon%20NA%202019.pdf)|
+|Scaling Resilient Systems: A Journey into Slack's Database Service - Rafael Chacon & Guido Iaquinti|[Watch Here](https://www.youtube.com/watch?v=aTItjMJE17c)| [Slides](https://static.sched.com/hosted_files/kccncna19/13/Scaling%20resilient%20systems%20-%20A%20journey%20into%20Slack%27s%20database%20service.pdf)|
+|Running Istio and Kubernetes On-prem at Yahoo Scale - Suresh Visvanathan & Mrunmayi Dhume, Verizon|[Watch Here](https://www.youtube.com/watch?v=fEaVU1i-fOQ)| [Slides](https://static.sched.com/hosted_files/kccncna19/2f/K8s%20%26%20Istio%20%40%20Yahoo.pdf)|
+|10 Weird Ways to Blow Up Your Kubernetes - Melanie Cebula & Bruce Sherrod, Airbnb|[Watch Here](https://www.youtube.com/watch?v=FrQ8Lwm9_j8)|[Slides](https://static.sched.com/hosted_files/kccncna19/b9/kubecon%202019%20preso.pdf)|
+|Making an Internal Kubernetes Offering Generally Available - James Wen, Spotify|[Watch Here](https://www.youtube.com/watch?v=vLrxOhZ6Wrg)| [Slides](https://static.sched.com/hosted_files/kccncna19/78/Making%20an%20Internal%20Kubernetes%20Offering%20Generally%20Available.pdf)|
+|Case Study: AI-as-a-Service on Kubernetes at Scale and In Production - Itay Gabbay|[Watch Here](https://www.youtube.com/watch?v=LnXlZN8J6w0)| [Slides](https://static.sched.com/hosted_files/kccncna19/f8/AI_ML%20Case%20Study%20-%20Kubecon%20SD%202019%20.pdf)|
+|Moving from Legacy Infrastructure to the Cloud in a Government Organization - Chris Carty|[Watch Here](https://www.youtube.com/watch?v=oBuOf-IvHWQ)| [Slides](https://static.sched.com/hosted_files/kccncna19/00/kubecon-pres.pdf)|
 |Panel: Improving and Managing Kubernetes at Scale - Xiang Li, Alibaba; Corin Dwyer, Netflix|[Watch Here](https://www.youtube.com/watch?v=BetxFccSpxQ)|-|
-|Balancing Power and Pain: Moving a Startup From a PaaS to Kubernetes - David Sudia & Toni Rib|[Watch Here](https://www.youtube.com/watch?v=AqMxaxJsJKY)| [Slides](./slides/balancing-power-and-pain-moving-a-startup-from-a-paas-to-kubernetes-david-sudia-gospotcheck-toni-rib-gusto.pdf)|
+|Balancing Power and Pain: Moving a Startup From a PaaS to Kubernetes - David Sudia & Toni Rib|[Watch Here](https://www.youtube.com/watch?v=AqMxaxJsJKY)| [Slides](https://static.sched.com/hosted_files/kccncna19/3d/Balancing%20Power%20%26%20Pain.pdf)|
 |Gone in 60 Minutes: Migrating 20 TB from AKS to GKE in an Hour with Vitess - Derek Perkins, Nozzle|[Watch Here](https://www.youtube.com/watch?v=KpygSD-v_ws)|-|
-|Kubernetes at Reddit: Tales from Production - Greg Taylor, Reddit, Inc|[Watch Here](https://www.youtube.com/watch?v=WTbIBqNcjoQ)| [Slides](./slides/kubernetes-at-reddit-tales-from-production-greg-taylor-reddit-inc.pdf)|
-|Tinder's Move to Kubernetes - Chris O'Brien & Chris Thomas, Tinder|[Watch Here](https://www.youtube.com/watch?v=o3WXPXDuCSU)| [Slides](./slides/tinders-move-to-kubernetes-chris-obrien-chris-thomas-tinder.pdf)|
-|Creating a Micro Open-Source Community with Helm - Katie Gamanji, Condé Nast International|[Watch Here](https://www.youtube.com/watch?v=SsUp8LW2ovs)| [Slides](./slides/creating-a-micro-open-source-community-with-helm-katie-gamanji-conde-nast-international.pdf)|
+|Kubernetes at Reddit: Tales from Production - Greg Taylor, Reddit, Inc|[Watch Here](https://www.youtube.com/watch?v=WTbIBqNcjoQ)| [Slides](https://static.sched.com/hosted_files/kccncna19/cb/Kubernetes%20at%20Reddit_%20Tales%20from%20Production.pdf)|
+|Tinder's Move to Kubernetes - Chris O'Brien & Chris Thomas, Tinder|[Watch Here](https://www.youtube.com/watch?v=o3WXPXDuCSU)| [Slides](https://static.sched.com/hosted_files/kccncna19/1e/Tinder_KubeCon_2019.pdf)|
+|Creating a Micro Open-Source Community with Helm - Katie Gamanji, Condé Nast International|[Watch Here](https://www.youtube.com/watch?v=SsUp8LW2ovs)| [Slides](https://static.sched.com/hosted_files/kccncna19/7c/KubeCon%20NA%20-%20%20Micro%20Open-Source%20Community%20with%20Helm.pdf)|
 
 ## Storage
 
