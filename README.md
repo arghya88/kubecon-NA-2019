@@ -3,7 +3,7 @@
  
 | Topic        |      Video     |  Presentation |
 | ------------- |:-------------:| -----:|
-|Keynote: Finding the Joy in Chaos Engineering - Ana Medina & Lenny Sharpe|[Watch Here](https://www.youtube.com/watch?v=dsCMfi5YPnE)| [Slides](./slides/keynote-finding-the-joy-in-chaos-engineering-ana-medina-chaos-engineer-gremlin-lenny-sharpe-director-of-engineering-target.pdf)|
+|Keynote: Finding the Joy in Chaos Engineering - Ana Medina & Lenny Sharpe|[Watch Here](https://www.youtube.com/watch?v=dsCMfi5YPnE)| [Slides](https://static.sched.com/hosted_files/kccncna19/17/4-Ana%20and%20Lenny-NEW%20V4.pdf)|
 |Keynote: Seamless Customer Experience at Walmart Stores Powered b... Maneesh Vittolia & Sriram Komma|[Watch Here](https://www.youtube.com/watch?v=sfPFrvDvdlk)| [Slides](./slides/keynote-seamless-customer-experience-at-walmart-stores-powered-by-kubernetesedge-maneesh-vittolia-principal-architect-sriram-komma-principal-product-owner-walmart.pdf ) |
 |Keynote: Hello From the Other Side: Dispatches From a Kubernetes Attacker - Ian Coldwater|[Watch Here](https://www.youtube.com/watch?v=3jGNjan6I3Y)| [Slides](./slides/keynote-hello-from-the-other-side-dispatches-from-a-kubernetes-attacker-ian-coldwater-lead-platform-security-engineer-heroku.pdf )|
 |Keynote: In Search of the Kubernetes "Rails" Moment - Bryan Liles|[Watch Here](https://www.youtube.com/watch?v=ZqQTEdHVaCw)| [Slides](./slides/keynote-in-search-of-the-kubernetes-rails-moment-bryan-liles-kubecon-cloudnativecon-north-america-2019-co-chair-senior-staff-engineer-vmware.pdf )|
