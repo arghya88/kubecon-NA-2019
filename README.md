@@ -209,11 +209,12 @@
 
 | Topic        |      Video     |  Presentation |
 | ------------- |:-------------:| -----:|
-|PodOverhead: Accounting for Greater Cluster Stability - Eric Ernst, Intel|[Watch Here](https://www.youtube.com/watch?v=Y1WvrNzUxkM)| [Slides](./slides/podoverhead-accounting-for-greater-cluster-stability-eric-ernst-intel.pdf ) |
-|Superpowers for Windows Containers - Deep Debroy & Jean Rouge, Docker|[Watch Here](https://www.youtube.com/watch?v=fa5Q8VCyS3k)| [Slides](./slides/superpowers-for-windows-containers-deep-debroy-jean-rouge-docker.pdf ) |
-|Extending containerd - Samuel Karp & Maksym Pavlenko, Amazon|[Watch Here](https://www.youtube.com/watch?v=9avPJL9Zqso)| [Slides](./slides/extending-containerd-samuel-karp-maksym-pavlenko-amazon.pdf ) |
-|Mitigating Noisy Neighbours: Advanced Container Resource Management - Alexander Kanevskiy, Intel|[Watch Here](https://www.youtube.com/watch?v=9krJItZYX4U)| [Slides](./slides/mitigating-noisy-neighbours-advanced-container-resource-management-alexander-kanevskiy-intel.pdf ) |
-|Let's Try All the CRI Runtimes: Part 2: Answering the Why Question! - Phil Estes, IBM|[Watch Here](https://www.youtube.com/watch?v=92MQcV0GSyk)| [Slides](./slides/lets-try-all-the-cri-runtimes-part-2-answering-the-why-question-phil-estes-ibm.pdf ) |
+|PodOverhead: Accounting for Greater Cluster Stability - Eric Ernst, Intel|[Watch Here](https://www.youtube.com/watch?v=Y1WvrNzUxkM)| [Slides](https://static.sched.com/hosted_files/kccncna19/1f/kubecon-PodOverhead-v2.pdf) |
+|Superpowers for Windows Containers - Deep Debroy & Jean Rouge, Docker|[Watch Here](https://www.youtube.com/watch?v=fa5Q8VCyS3k)| [Slides](https://static.sched.com/hosted_files/kccncna19/1e/WindowsSuperpowers.pdf) |
+|Extending containerd - Samuel Karp & Maksym Pavlenko, Amazon|[Watch Here](https://www.youtube.com/watch?v=9avPJL9Zqso)| [Slides](https://static.sched.com/hosted_files/kccncna19/3c/extending-containerd-kubecon.pdf) |
+|Mitigating Noisy Neighbours: Advanced Container Resource Management - Alexander Kanevskiy, Intel|[Watch Here](https://www.youtube.com/watch?v=9krJItZYX4U)| [Slides](https://static.sched.com/hosted_files/kccncna19/9a/Mitigating%20Noisy%20Neighbors-%20Advanced%20Container%20Resource%20Management%20-%202019-11-11%20v0.9.pdf) |
+|Let's Try All the CRI Runtimes: Part 2: Answering the Why Question! - Phil Estes, IBM|[Watch Here](https://www.youtube.com/watch?v=92MQcV0GSyk)| [Slides](https://static.sched.com/hosted_files/kccncna19/18/All%20The%20CRI%20Runtimes_%20KubeCon%20Part%202.pdf) |
+|Open Source Weave Ignite - The GitOps VM - Mark Emeis, Weaveworks| [Watch Here](https://www.youtube.com/watch?v=r8ImiQboPZk)| [Slides](https://static.sched.com/hosted_files/kccncna19/94/Weave%20Ignite%20-%20kubecon-na-19.pdf)|
 
 ## Observability
 
