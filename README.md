@@ -197,11 +197,13 @@
 
 | Topic        |      Video     |  Presentation |
 | ------------- |:-------------:| -----:|
-|Did Kubernetes Make My p95s Worse? - Jian Cheung & Stephen Chan, Airbnb|[Watch Here](https://www.youtube.com/watch?v=QXApVwRBeys)|-|
-|How Container Networking Affects Database Performance - Tyler Duzan & Vadim Tkachenko, Percona|[Watch Here](https://www.youtube.com/watch?v=EXqEzZPm4I0)| [Slides](./slides/how-container-networking-affects-database-performance-tyler-duzan-vadim-tkachenko-percona.pdf ) |
-|How Ancestry Got Kubernetes to Run 2x Better Per Dollar Using AI - Darek Gajewski, Ancestry|[Watch Here](https://www.youtube.com/watch?v=usHG-woLYiI)| [Slides](./slides/how-ancestry-got-kubernetes-to-run-2x-better-per-dollar-using-ai-darek-gajewski-ancestry.pdf ) |
-|Ready to Serve! Speeding-Up Startup Time of Istio-Powered Workloads - Michal Malka & Etai Lev-Ran|[Watch Here](https://www.youtube.com/watch?v=nay69Lk0zNs)| [Slides](./slides/ready-to-serve-speeding-up-startup-time-of-istio-powered-workloads-michal-malka-etai-lev-ran-ibm.pdf ) |
-|Staying in Tune: Optimize Kubernetes for Stability and Util... Randy Johnson & Koushik Radhakrishnan|[Watch Here](https://www.youtube.com/watch?v=uodXrKk7I-o)| [Slides](./slides/staying-in-tune-optimize-kubernetes-for-stability-and-utilization-randy-johnson-koushik-radhakrishnan-vmware.pdf ) |
+|Implementing a Consumer Focused SLA for a Kubernetes Based PaaS - Shrenik Dedhia, Box| [Watch Here](https://www.youtube.com/watch?v=cpIO5h7EuEE)| [Slides](https://static.sched.com/hosted_files/kccncna19/b2/Implementing%20a%20Customer%20Focused%20SLA%20for%20a%20Kubernetes%20Based%20PaaS.pdf)|
+|Did Kubernetes Make My p95s Worse? - Jian Cheung & Stephen Chan, Airbnb|[Watch Here](https://www.youtube.com/watch?v=QXApVwRBeys)| [Slides](https://static.sched.com/hosted_files/kccncna19/e1/%5Bkubecon%202019%5D%20Did%20Kubernetes%20make%20my%20p95s%20worse.pdf)|
+|How Container Networking Affects Database Performance - Tyler Duzan & Vadim Tkachenko, Percona|[Watch Here](https://www.youtube.com/watch?v=EXqEzZPm4I0)| [Slides](https://static.sched.com/hosted_files/kccncna19/54/KubeCon-NetworkingDatabasesBenchmark_edited.pdf) |
+|Throttling: New Developments in Application Performance with CPU Limits - Dave Chiluk, Indeed| [Watch Here](https://www.youtube.com/watch?v=UE7QX98-kO0)| [Slides](https://static.sched.com/hosted_files/kccncna19/dd/Kubecon_%20Throttling.pdf)|
+|How Ancestry Got Kubernetes to Run 2x Better Per Dollar Using AI - Darek Gajewski, Ancestry|[Watch Here](https://www.youtube.com/watch?v=usHG-woLYiI)| [Slides](https://static.sched.com/hosted_files/kccncna19/2b/KubeCon%20-%20Ancestry%20-%20Continuous%20Optimization%20-%20Hard%20Copy.pdf) |
+|Ready to Serve! Speeding-Up Startup Time of Istio-Powered Workloads - Michal Malka & Etai Lev-Ran|[Watch Here](https://www.youtube.com/watch?v=nay69Lk0zNs)| [Slides](https://static.sched.com/hosted_files/kccncna19/0c/ReadyToServe.pdf) |
+|Staying in Tune: Optimize Kubernetes for Stability and Util... Randy Johnson & Koushik Radhakrishnan|[Watch Here](https://www.youtube.com/watch?v=uodXrKk7I-o)| [Slides](https://static.sched.com/hosted_files/kccncna19/80/Staying%20in%20Tune%20%28v3%29.pdf) |
 
 ## Runtimes
 
