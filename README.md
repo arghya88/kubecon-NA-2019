@@ -159,12 +159,16 @@
 
 | Topic        |      Video     |  Presentation |
 | ------------- |:-------------:| -----:|
-|Building Reusable DevSecOps Pipelines on a Secure Kubernetes... Steven Terrana & Michael Ducy|[Watch Here](https://www.youtube.com/watch?v=OClSwxhsspA)| [Slides](./slides/building-reusable-devsecops-pipelines-on-a-secure-kubernetes-platform-steven-terrana-booz-allen-hamilton-michael-ducy-sysdig.pdf)|
-|Applying Policy Throughout The Application Lifecycle with Open Policy Agent - Gareth Rushgrove, Snyk|[Watch Here](https://www.youtube.com/watch?v=cXfsaE6RKfc)| [Slides](./slides/applying-policy-throughout-the-application-lifecycle-with-open-policy-agent-gareth-rushgrove-snyk.pdf)|
-|Managing Helm Deployments with Gitops at CERN - Ricardo Rocha, CERN|[Watch Here](https://www.youtube.com/watch?v=g9FQxzK9E_M)| [Slides](./slides/managing-helm-deployments-with-gitops-at-cern-ricardo-rocha-cern.pdf)|
-|Kubernetes in Your 4x4 – Continuous Deployment Directly to the Car - Rafal Kowalski, Grape Up|[Watch Here](https://www.youtube.com/watch?v=zmuOxFp3CAk)| [Slides](./slides/kubernetes-in-your-4x4-continuous-deployment-directly-to-the-car-rafal-kowalski-grape-up.pdf)|
-|Mario’s Adventures in Tekton Land - Vincent Demeester, Red Hat & Andrea Frittoli, IBM|[Watch Here](https://www.youtube.com/watch?v=LdXXtDYxD-0)|-|
-|Panel: GitOps User Stories|[Watch Here](https://www.youtube.com/watch?v=ogw6_Y3WBQs)| [Slides](./slides/panel-gitops-user-stories-tamao-nakahara-weaveworks-javeria-khan-palo-alto-networks-hubert-chen-branch-stefan-prodan-weaveworks-edward-lee-intuit.pdf )|
+|Building Reusable DevSecOps Pipelines on a Secure Kubernetes... Steven Terrana & Michael Ducy|[Watch Here](https://www.youtube.com/watch?v=OClSwxhsspA)| [Slides](https://static.sched.com/hosted_files/kccncna19/30/kubecon-na-ppt-reg.pptx.pdf)|
+|Applying Policy Throughout The Application Lifecycle with Open Policy Agent - Gareth Rushgrove, Snyk|[Watch Here](https://www.youtube.com/watch?v=cXfsaE6RKfc)| [Slides](https://static.sched.com/hosted_files/kccncna19/d5/Applying%20Policy%20Throughout%20The%20Application%20Lifecycle%20with%20Open%20Policy%20Agent.pdf)|
+|Managing Helm Deployments with Gitops at CERN - Ricardo Rocha, CERN|[Watch Here](https://www.youtube.com/watch?v=g9FQxzK9E_M)| [Slides](https://static.sched.com/hosted_files/kccncna19/4e/Managing%20Helm%20Deployments%20with%20GitOPS%20at%20CERN.pdf)|
+|Kubernetes in Your 4x4 – Continuous Deployment Directly to the Car - Rafal Kowalski, Grape Up|[Watch Here](https://www.youtube.com/watch?v=zmuOxFp3CAk)| [Slides](https://static.sched.com/hosted_files/kccncna19/b6/Kubernetes%20in%20your%204x4.pdf)|
+|Mario’s Adventures in Tekton Land - Vincent Demeester, Red Hat & Andrea Frittoli, IBM|[Watch Here](https://www.youtube.com/watch?v=LdXXtDYxD-0)|[Slides](https://static.sched.com/hosted_files/kccncna19/70/Mario%27s%20Adventures%20in%20Tekton%20Land%282%29.pdf)|
+|A Series of Fortunate CloudEvents - Ian Coffey, Salesforce| [Watch Here](https://www.youtube.com/watch?v=-4RABBHfikQ)|[Slides](https://static.sched.com/hosted_files/kccncna19/7e/AFSOCE_export.pdf)|
+|Leveling Up Your CD: Unlocking Progressive Delivery on Kubernetes - Daniel Thomson & Jesse Suen, Intuit| [Watch Here](https://www.youtube.com/watch?v=Nv0PPwbIEkY)| [Slides](https://static.sched.com/hosted_files/kccncna19/f2/Progressive%20Delivery%20%26%20Argo%20Rollouts.pdf)|
+|Krane: A Developer-Centric Deploy Tool - Daniel Turner & Katrina Verey, Shopify| [Watch Here](https://www.youtube.com/watch?v=5ACPxn49HlA)| [Slides](https://static.sched.com/hosted_files/kccncna19/e7/Krane%20--%20Kubecon%202019.pdf)|
+|Developer Experience on CD: Build a CD Platform to K8s that Developers Love - Euccas Chen & Tobi Ogunnaike, Pinterest| [Watch Here](https://www.youtube.com/watch?v=KkKSoQBp2oQ)| [Slides](https://static.sched.com/hosted_files/kccncna19/ee/CDonK8sAtPinterest.pdf)|
+|Panel: GitOps User Stories|[Watch Here](https://www.youtube.com/watch?v=ogw6_Y3WBQs)| [Slides](https://static.sched.com/hosted_files/kccncna19/43/KubeCon%202019%20GitOps%20User%20Stories%20Panel.pdf)|
 
 
 ## Machine Learning + Data
