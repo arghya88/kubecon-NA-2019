@@ -26,7 +26,7 @@
 
 ## Tutorial
  
-| Topic        |      Video     |  Presentation |
+| Topic        |      Youtube(Video)     |  Sched(Slides) |
 | ------------- |:-------------:| -----:|
 |Tutorial: Attacking and Defending Kube... Brad Geesaman, Jimmy Mesta, Tabitha Sable & Peter Benjamin|[Video](https://www.youtube.com/watch?v=UdMFTdeAL1s)| [Presentation](https://static.sched.com/hosted_files/kccncna19/32/KubeCon%20NA%202019%20Tutorial%20and%20CTF%20-%20Attacking%20and%20Defending%20Kubernetes%20Clusters_%20A%20Guided%20Tour.pdf)|
 |Tutorial: Service Mesh for the Developer Workflow - Christian Posta & Nic Jackson|[Video](https://www.youtube.com/watch?v=uC2O36QKUlc)|-|
@@ -39,7 +39,8 @@
 |Tutorial: Everything You Need To Become a GitOps Ninja - Alex Collins & Alexander Matyushentsev|[Video](https://www.youtube.com/watch?v=r50tRQjisxw)| [Presentation](https://static.sched.com/hosted_files/kccncna19/19/Everything%20You%20Need%20To%20Become%20a%20GitOps%20Ninja.pdf)|
 
 ## Networking
-| Topic        |      Video     |  Presentation |
+
+| Topic        |      Youtube(Video)     |  Sched(Slides) |
 | ------------- |:-------------:| -----:|
 |Low Latency Multi-cluster Kubernetes Networking in AWS - Paul Fisher, Lyft|[Video](https://www.youtube.com/watch?v=Mj5zgbC6YDI)| [Presentation](https://static.sched.com/hosted_files/kccncna19/e0/Kubecon%20Lyft%20CNI%202019.pdf)|
 |Rethinking the K8s DNS for the Modern Enterprise - Deepa Kalani & Venil Noronha, VMware|[Video](https://www.youtube.com/watch?v=fLx78pSYFvw)| [Presentation](https://static.sched.com/hosted_files/kccncna19/27/Rethinking%20the%20K8s%20DNS%20for%20the%20Modern%20Enterprise.pdf)|
@@ -55,7 +56,7 @@
 
 ## Operations
  
-| Topic        |      Video     |  Presentation |
+| Topic        |      Youtube(Video)     |  Sched(Slides) |
 | ------------- |:-------------:| -----:|
 |Making the Most Out of Kubernetes Audit Logs - Laurent Bernaille & Robert Boll, Datadog|[Video](https://www.youtube.com/watch?v=raJRLmGb9Is)| [Presentation](https://static.sched.com/hosted_files/kccncna19/1d/Making%20the%20Most%20out%20of%20Kubernetes%20Audit%20Logs.pdf)|
 |Take Envoy Beyond a K8s Service Mesh - to Legacy Bare Metal & VMs + More - Steve Sloka & Steven Wong|[Video](https://www.youtube.com/watch?v=jzla7xdqtwM)| [Presentation](https://static.sched.com/hosted_files/kccncna19/d3/KubeCon%20NA%202019%20-%20Take%20Envoy%20beyond%20a%20K8s%20service%20mesh.pdf)|
@@ -77,7 +78,7 @@
 
 ## Service Mesh
  
-| Topic        |      Video     |  Presentation |
+| Topic        |      Youtube(Video)     |  Sched(Slides) |
 | ------------- |:-------------:| -----:|
 |Service Mesh: There and Back Again - Hema Lee & Cody Vandermyn, Nordstrom|[Video](https://www.youtube.com/watch?v=sq8nsjuJqO4)| [Presentation](https://static.sched.com/hosted_files/kccncna19/d2/TACO-KubeCon19.pdf)|
 |How the Department of Defense Moved to Kubernetes and Istio - Nicolas Chaillan|[Video](https://www.youtube.com/watch?v=YjZ4AZ7hRM0)| [Presentation](https://static.sched.com/hosted_files/kccncna19/16/Kubecon%20-%20U.S%20Air%20Force%20Chief%20Software%20Officer%20Keynote%20v1.3%20-%20no%20video.pptx)|
@@ -94,7 +95,7 @@
 
 ## Serverless
  
-| Topic        |      Video     |  Presentation |
+| Topic        |      Youtube(Video)     |  Sched(Slides) |
 | ------------- |:-------------:| -----:|
 |KubeFlow’s Serverless Component: 10x Faster, a 1/10 of the Effort - Orit Nissan-Messing, Iguazio|[Video](https://www.youtube.com/watch?v=GmCpdRRFmxw)| [Presentation](https://static.sched.com/hosted_files/kccncna19/f1/Serverless%20Kubeflow%20Orit%20NM.pdf)|
 |OpenFaaS Cloud + Linkerd: A Secure, Multi-Tenant Serverless Platform - Charles Pretzer, Buoyant & Alex Ellis, OpenFaaS, LTD|[Video](https://www.youtube.com/watch?v=sD7hCwq3Gw0)|[Presentation](https://static.sched.com/hosted_files/kccncna19/f3/openfaas_cloud_linkerd_19_nov_pdf.pdf)|
@@ -105,7 +106,7 @@
 
 ## Security + Identity + Policy
 
-| Topic        |      Video     |  Presentation |
+| Topic        |      Youtube(Video)     |  Sched(Slides) |
 | ------------- |:-------------:| -----:|
 |The Devil in the Details: Kubernetes’ First Security Assessment - Aaron Small & Jay Beale|[Video](https://www.youtube.com/watch?v=vknE5XEa_Do)| [Presentation](https://static.sched.com/hosted_files/kccncna19/8c/The%20Devil%20in%20the%20Details_%20Kubernetes’%20First%20Security%20Assessment-updated.pdf)|
 |CAP_NET_RAW And ARP Spoofing in Your Cluster: It's Going Downhill From Here - Liz Rice|[Video](https://www.youtube.com/watch?v=f-dN8Osm8z0)|[Presentation](https://static.sched.com/hosted_files/kccncna19/72/ARP%20DNS%20spoof.pdf)|
@@ -125,7 +126,7 @@
 
 ## Case Studies
 
-| Topic        |      Video     |  Presentation |
+| Topic        |      Youtube(Video)     |  Sched(Slides) |
 | ------------- |:-------------:| -----:|
 |Kubernetes at Cruise: Two Years of Multitenancy - Karl Isenberg, Cruise|[Video](https://www.youtube.com/watch?v=m19D9vZ1QFQ)| [Presentation](https://static.sched.com/hosted_files/kccncna19/14/Kubernetes%20Multitenancy%20-%20Karl%20Isenberg%20-%20KubeCon%20NA%202019.pdf)|
 |Scaling Resilient Systems: A Journey into Slack's Database Service - Rafael Chacon & Guido Iaquinti|[Video](https://www.youtube.com/watch?v=aTItjMJE17c)| [Presentation](https://static.sched.com/hosted_files/kccncna19/13/Scaling%20resilient%20systems%20-%20A%20journey%20into%20Slack%27s%20database%20service.pdf)|
@@ -143,7 +144,7 @@
 
 ## Storage
 
-| Topic        |      Video     |  Presentation |
+| Topic        |      Youtube(Video)     |  Sched(Slides) |
 | ------------- |:-------------:| -----:|
 |Beyond Storage Management - Andrew Large & Yinan Li, Google|[Video](https://www.youtube.com/watch?v=m-9MX9Pxh6A)| [Presentation](https://static.sched.com/hosted_files/kccncna19/22/Beyond%20Storage%20Management.pdf)|
 |Building Blocks: How Raw Block PVs Changed the Way We Look at Storage - Jose A. Rivera & Rohan Gupta|[Video](https://www.youtube.com/watch?v=5j4ViEfVcWg)| [Presentation](https://static.sched.com/hosted_files/kccncna19/da/Building%20Blocks%20-%20KubeCon%20NA%202019.pdf)|
@@ -157,7 +158,7 @@
 
 ## CI/CD
 
-| Topic        |      Video     |  Presentation |
+| Topic        |      Youtube(Video)     |  Sched(Slides) |
 | ------------- |:-------------:| -----:|
 |Building Reusable DevSecOps Pipelines on a Secure Kubernetes... Steven Terrana & Michael Ducy|[Video](https://www.youtube.com/watch?v=OClSwxhsspA)| [Presentation](https://static.sched.com/hosted_files/kccncna19/30/kubecon-na-ppt-reg.pptx.pdf)|
 |Applying Policy Throughout The Application Lifecycle with Open Policy Agent - Gareth Rushgrove, Snyk|[Video](https://www.youtube.com/watch?v=cXfsaE6RKfc)| [Presentation](https://static.sched.com/hosted_files/kccncna19/d5/Applying%20Policy%20Throughout%20The%20Application%20Lifecycle%20with%20Open%20Policy%20Agent.pdf)|
@@ -173,7 +174,7 @@
 
 ## Machine Learning + Data
 
-| Topic        |      Video     |  Presentation |
+| Topic        |      Youtube(Video)     |  Sched(Slides) |
 | ------------- |:-------------:| -----:|
 |Running Apache Samza on Kubernetes - Weiqing Yang, LinkedIn Corporation|[Video](https://www.youtube.com/watch?v=Eh7kydS0Hao)| [Presentation](https://static.sched.com/hosted_files/kccncna19/0a/RunningApacheSamzaOnK8s.pdf)|
 |Enabling Kubeflow with Enterprise-Grade Auth for On-Prem... Yannis Zarkadas & Krishna Durai|[Video](https://www.youtube.com/watch?v=qyUyYLvmKHY)| [Presentation](https://static.sched.com/hosted_files/kccncna19/22/Enabling%20Kubeflow%20with%20Enterprise%20Grade%20Auth%20for%20On-Premise%20Deployments.pdf)|
@@ -195,7 +196,7 @@
 
 ## Performance
 
-| Topic        |      Video     |  Presentation |
+| Topic        |      Youtube(Video)     |  Sched(Slides) |
 | ------------- |:-------------:| -----:|
 |Implementing a Consumer Focused SLA for a Kubernetes Based PaaS - Shrenik Dedhia, Box| [Video](https://www.youtube.com/watch?v=cpIO5h7EuEE)| [Presentation](https://static.sched.com/hosted_files/kccncna19/b2/Implementing%20a%20Customer%20Focused%20SLA%20for%20a%20Kubernetes%20Based%20PaaS.pdf)|
 |Did Kubernetes Make My p95s Worse? - Jian Cheung & Stephen Chan, Airbnb|[Video](https://www.youtube.com/watch?v=QXApVwRBeys)| [Presentation](https://static.sched.com/hosted_files/kccncna19/e1/%5Bkubecon%202019%5D%20Did%20Kubernetes%20make%20my%20p95s%20worse.pdf)|
@@ -207,7 +208,7 @@
 
 ## Runtimes
 
-| Topic        |      Video     |  Presentation |
+| Topic        |      Youtube(Video)     |  Sched(Slides) |
 | ------------- |:-------------:| -----:|
 |PodOverhead: Accounting for Greater Cluster Stability - Eric Ernst, Intel|[Video](https://www.youtube.com/watch?v=Y1WvrNzUxkM)| [Presentation](https://static.sched.com/hosted_files/kccncna19/1f/kubecon-PodOverhead-v2.pdf) |
 |Superpowers for Windows Containers - Deep Debroy & Jean Rouge, Docker|[Video](https://www.youtube.com/watch?v=fa5Q8VCyS3k)| [Presentation](https://static.sched.com/hosted_files/kccncna19/1e/WindowsSuperpowers.pdf) |
@@ -218,7 +219,7 @@
 
 ## Observability
 
-| Topic        |      Video     |  Presentation |
+| Topic        |      Youtube(Video)     |  Sched(Slides) |
 | ------------- |:-------------:| -----:|
 |Blazin’ Fast PromQL - Tom Wilkie, Grafana Labs|[Video](https://www.youtube.com/watch?v=yYgdZyeBOck)|-|
 |No-Nonsense Observability Improvement - Cory Watson, SignalFx|[Video](https://www.youtube.com/watch?v=HmKAjIlImcU)| [Presentation](https://static.sched.com/hosted_files/kccncna19/05/No-Nonsense%20Observability%20Improvement.pdf) |
@@ -235,7 +236,7 @@
 
 ## Application + Development
 
-| Topic        |      Video     |  Presentation |
+| Topic        |      Youtube(Video)     |  Sched(Slides) |
 | ------------- |:-------------:| -----:|
 |Containing the Container: Developer Experience vs Strict... Brian Bagdzinski & Sharat Nellutla|[Video](https://www.youtube.com/watch?v=cERhWZ9w3vQ)| [Presentation](https://static.sched.com/hosted_files/kccncna19/3b/Containing%20the%20Container.pdf) |
 |eBay Search On K8s - Mohnish Kodnani & Yashwanth Vempati, eBay|[Video](https://www.youtube.com/watch?v=chGN44Kqpd8)| [Presentation](https://static.sched.com/hosted_files/kccncna19/2a/ebay-search-on-k8s.pdf) |
@@ -257,7 +258,7 @@
 
 ## Customizing + Extending Kubernetes
 
-| Topic        |      Video     |  Presentation |
+| Topic        |      Youtube(Video)     |  Sched(Slides) |
 | ------------- |:-------------:| -----:|
 |Only Slightly Bent: Uber’s Kubernetes Migration Journey for Microservices - Yunpeng Liu, Uber|[Video](https://www.youtube.com/watch?v=91c3iUI2K7M)| [Presentation](https://static.sched.com/hosted_files/kccncna19/bc/Kubecon%20Presentation%20-%20Only%20Slightly%20Bent_%20Uber’s%20Kubernetes%20Migration%20Journey%20Microservices.pdf) |
 |Hardware-based KMS Plug-in to Protect Secrets in Kubernetes - Raghu Yeluri & Haidong Xia, Intel|[Video](https://www.youtube.com/watch?v=CloYJcPY5nU)| [Presentation](https://static.sched.com/hosted_files/kccncna19/db/TEE-based%20KMS%20plugin%20for%20encryption%20of%20kubernetes%20secrets.pdf) |
@@ -279,7 +280,7 @@
 
 ## Introduction Sessions for various topics
 
-| Topic        |      Video     |  Presentation |
+| Topic        |      Youtube(Video)     |  Sched(Slides) |
 | ------------- |:-------------:| -----:|
 |Intro to Thanos: Scale Your Prometheus Monitoring With Ease - Lucas Serven & Dominic Green|[Video](https://www.youtube.com/watch?v=m0JgWlTc60Q)| [Presentation](https://static.sched.com/hosted_files/kccncna19/e4/CNCFSanDiego-IntroductionToThanos.pdf) |
 |Introduction to Virtual Kubelet – Featuring Titus by Netflix - Ria Bhatia & Sargun Dhillon|[Video](https://www.youtube.com/watch?v=eFnDwwckrKU)|-|
@@ -328,7 +329,7 @@
 
 ## Deep Dive Sessions
 
-| Topic        |      Video     |  Presentation |
+| Topic        |      Youtube(Video)     |  Sched(Slides) |
 | ------------- |:-------------:| -----:|
 |CNCF SIG-Security Deep Dive - Jeyappragash Jeyakeerthi, CNCF SIG-Security & Zhipeng Huang, Huawei|[Video](https://www.youtube.com/watch?v=zT97dU9CBxQ)|-|
 |SIG Cloud Provider Deep Dive - Walter Fender, Google & Yassine Tijani, VMWare|[Video](https://www.youtube.com/watch?v=cre8jwHPcEE)| [Presentation](https://static.sched.com/hosted_files/kccncna19/ad/San%20Diego%202019%20SIG-CP%20Deep%20Dive.pdf) |
@@ -368,24 +369,24 @@ SIG-Network Intro & Deep-Dive - Tim Hockin, Google & Vallery Lancey, Lyft|[Video
 
 ## Lightning Talks
 
-| Topic        |      Video     |  Presentation |
+| Topic        |      Youtube(Video)     |  Sched(Slides) |
 | ------------- |:-------------:| -----:|
-|Lightning Talk: Want to Donate a Project to the CNCF? Here's How - Cheryl Hung, CNCF|[Video](https://www.youtube.com/watch?v=WS0OcCUt4io)|[Presentation](./Presentation/lightning-talk-want-to-donate-a-project-to-the-cncf-heres-how-cheryl-hung-cncf.pdf)|
+|Lightning Talk: Want to Donate a Project to the CNCF? Here's How - Cheryl Hung, CNCF|[Video](https://www.youtube.com/watch?v=WS0OcCUt4io)|[Presentation](https://static.sched.com/hosted_files/kccncna19/a1/What%20Makes%20a%20Good%20Multi-Tenant%20Kubernetes%20Solution.pdf)|
 |Lightning Talk: Easily Observing Operators - Lili Cosic, Red Hat|[Video](https://www.youtube.com/watch?v=-ioN-apfQFc)|-|
-|Lightning Talk: Is Your Kubernetes Cluster's DNS Working? - Jonathan Perry, Flowmill|[Video](https://www.youtube.com/watch?v=thBCB7YeZ2g)|[Presentation](./Presentation/lightning-talk-is-your-kubernetes-clusters-dns-working-jonathan-perry-flowmill.pdf)|
-|Lightning Talk: Open Match - Matchmaking Framework - Robert Bailey, Google|[Video](https://www.youtube.com/watch?v=OEkCaHTLpA8)|[Presentation](./Presentation/lightning-talk-open-match-matchmaking-framework-robert-bailey-google.pdf)|
-|Lightning Talk: CRDs All the Way Down – Using OPA for Complex CRD Validation and... Puja Abbassi|[Video](https://www.youtube.com/watch?v=DUe_8nf42Ik)|[Presentation](./Presentation/lightning-talk-crds-all-the-way-down-using-opa-for-complex-crd-validation-and-defaulting-puja-abbassi-giant-swarm.pdf)|
-|Lightning Talk: How the Observability Team at Spotify Radically Decreased... Lauren Muhlhauser|[Video](https://www.youtube.com/watch?v=AA8e5v43AcU)|[Presentation](./Presentation/lightning-talk-how-the-observability-team-at-spotify-radically-decreased-on-call-alerts-lauren-muhlhauser-spotify.pdf)|
-|Lightning Talk: Sharing a GPU Among Multiple Containers - Patrick McQuighan, Algorithmia|[Video](https://www.youtube.com/watch?v=VNZsooht3K8)|[Presentation](./Presentation/lightning-talk-sharing-a-gpu-among-multiple-containers-patrick-mcquighan-algorithmia.pdf)|
-|Lightning Talk: Code Kubernetes While You Are Using It - Mario Loriedo, Red Hat|[Video](https://www.youtube.com/watch?v=W--8Ga9G63k)|-|
-|Lightning Talk: Kuber-What-Es?! Misadventures in Building UIs for K8s-Based ML... Alexandra Johnson|[Video](https://www.youtube.com/watch?v=Vr9X_W0wS64)|[Presentation](./Presentation/lightning-talk-kuber-what-es-misadventures-in-building-uis-for-k8s-based-ml-platforms-alexandra-johnson-independent.pdf)|
+|Lightning Talk: Is Your Kubernetes Cluster's DNS Working? - Jonathan Perry, Flowmill|[Video](https://www.youtube.com/watch?v=thBCB7YeZ2g)|[Presentation](https://static.sched.com/hosted_files/kccncna19/93/Is%20Your%20Kubernetes%20Cluster%27s%20DNS%20Working_.pdf)|
+|Lightning Talk: Open Match - Matchmaking Framework - Robert Bailey, Google|[Video](https://www.youtube.com/watch?v=OEkCaHTLpA8)|[Presentation](https://static.sched.com/hosted_files/kccncna19/f4/Lightning%20Talk%20-%20Open%20Match.pdf)|
+|Lightning Talk: CRDs All the Way Down – Using OPA for Complex CRD Validation and... Puja Abbassi|[Video](https://www.youtube.com/watch?v=DUe_8nf42Ik)|[Presentation](https://static.sched.com/hosted_files/kccncna19/34/Advanced%20CRD%20Validation%20and%20Defaulting%20with%20OPA.pdf)|
+|Lightning Talk: How the Observability Team at Spotify Radically Decreased... Lauren Muhlhauser|[Video](https://www.youtube.com/watch?v=AA8e5v43AcU)|[Presentation](https://static.sched.com/hosted_files/kccncna19/3d/How%20the%20Observability%20Team%20at%20Spotify%20Radically%20Decreased%20On-Call%20Alerts.pdf)|
+|Lightning Talk: Sharing a GPU Among Multiple Containers - Patrick McQuighan, Algorithmia|[Video](https://www.youtube.com/watch?v=VNZsooht3K8)|[Presentation](https://static.sched.com/hosted_files/kccncna19/e1/McQuighan_Share_GPUs.pdf)|
+|Lightning Talk: Code Kubernetes While You Are Using It - Mario Loriedo, Red Hat|[Video](https://www.youtube.com/watch?v=W--8Ga9G63k)| [Slides](https://static.sched.com/hosted_files/kccncna19/be/Coding%20Kubernetes%20While%20You%20Are%20Using%20It.pdf)|
+|Lightning Talk: Kuber-What-Es?! Misadventures in Building UIs for K8s-Based ML... Alexandra Johnson|[Video](https://www.youtube.com/watch?v=Vr9X_W0wS64)|[Presentation](https://static.sched.com/hosted_files/kccncna19/1c/Kuber-what-es%202019.pdf)|
 |Lightning Talk: Get Started With Non-Code Contributions to Kubernetes - David Strebel, Microsoft|[Video](https://www.youtube.com/watch?v=AWdhli9rhWQ)|-|
 |Lightning Talk: Boosting Your kubectl Productivity - Mauricio Salatino, LearnK8s|[Video](https://www.youtube.com/watch?v=vVAFctQP1Vg)|-|
-|Lightning Talk: What Makes a Good Multi-tenant Kubernetes Solution? - Victor Varza, Adobe|[Video](https://www.youtube.com/watch?v=39FLsSc2P-Y)|[Presentation](./Presentation/lightning-talk-what-makes-a-good-multi-tenant-kubernetes-solution-victor-varza-adobe.pdf)|
+|Lightning Talk: What Makes a Good Multi-tenant Kubernetes Solution? - Victor Varza, Adobe|[Video](https://www.youtube.com/watch?v=39FLsSc2P-Y)|[Presentation](https://static.sched.com/hosted_files/kccncna19/a1/What%20Makes%20a%20Good%20Multi-Tenant%20Kubernetes%20Solution.pdf)|
 
 ## Unsorted
 
-| Topic        |      Video     |  Presentation |
+| Topic        |      Youtube(Video)     |  Sched(Slides) |
 | ------------- |:-------------:| -----:|
 |Five Things You Didn’t Know You Could Do with SPIFFE and SPIRE - Andrew Jessup & Andrés Vega|[Video](https://www.youtube.com/watch?v=5m6kjzdysBI)|[Presentation](./Presentation/five-things-you-didnt-know-you-could-do-with-spiffe-and-spire-andrew-jessup-andres-vega-scytale.pdf)|
 |Sharing is Caring: How to Begin Speaking at Conferences - Jenny Burcio & Ashlynn Polini, Docker|[Video](https://www.youtube.com/watch?v=vwZC6zXq2NQ)| - |
