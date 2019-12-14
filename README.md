@@ -221,14 +221,17 @@
 | Topic        |      Video     |  Presentation |
 | ------------- |:-------------:| -----:|
 |Blazin’ Fast PromQL - Tom Wilkie, Grafana Labs|[Watch Here](https://www.youtube.com/watch?v=yYgdZyeBOck)|-|
-|No-Nonsense Observability Improvement - Cory Watson, SignalFx|[Watch Here](https://www.youtube.com/watch?v=HmKAjIlImcU)| [Slides](./slides/no-nonsense-observability-improvement-cory-watson-signalfx.pdf ) |
-|From Issue to PR Merged: A Fluentd “Tail” - Jordan Hamel, Amgen|[Watch Here](https://www.youtube.com/watch?v=P1ONBKIxz7w)| [Slides](./slides/from-issue-to-pr-merged-a-fluentd-tail-jordan-hamel-amgen.pdf ) |
-|Weighing a Cloud: Measuring Your Kubernetes Clusters - Han Kang, Google & Elana Hashman, Red Hat|[Watch Here](https://www.youtube.com/watch?v=BknenxQ_NLQ)| [Slides](./slides/weighing-a-cloud-measuring-your-kubernetes-clusters-han-kang-google-elana-hashman-red-hat.pdf ) |
-|Beyond Getting Started: Using OpenTelemetry to Its Full Potential - Sergey Kanzhelev & Morgan McLean|[Watch Here](https://www.youtube.com/watch?v=FlghuHDlQdM)| [Slides](./slides/beyond-getting-started-using-opentelemetry-to-its-full-potential-sergey-kanzhelev-microsoft-morgan-mclean-google.pdf ) |
-|How to Include Latency in SLO-based Alerting - Björn Rabenstein, Grafana Labs|[Watch Here](https://www.youtube.com/watch?v=X99X-VDzxnw)| [Slides](./slides/how-to-include-latency-in-slo-based-alerting-bjorn-rabenstein-grafana-labs.pdf ) |
-|Debugging Live Applications the Kubernetes Way: From a Sidecar - Joe Elliott, Grafana Labs|[Watch Here](https://www.youtube.com/watch?v=yNTc2-i9arg)| [Slides](./slides/debugging-live-applications-the-kubernetes-way-from-a-sidecar-joe-elliott-grafana-labs.pdf ) |
-|Deep Linking Metrics and Traces with OpenTelemetry, OpenMetrics and M3 - Rob Skillington|[Watch Here](https://www.youtube.com/watch?v=TzNZIEvhAdA)| [Slides](./slides/deep-linking-metrics-and-traces-with-opentelemetry-openmetrics-and-m3-rob-skillington-chronosphere.pdf ) |
-|Exporting Kubernetes Event Objects for Better Observability - Mustafa Akın & Ahmet Şeker, Atlassian|[Watch Here](https://www.youtube.com/watch?v=_s0o_xAF3Pg)| [Slides](./slides/exporting-kubernetes-event-objects-for-better-observability-mustafa-akin-ahmet-seker-atlassian.pdf)|
+|No-Nonsense Observability Improvement - Cory Watson, SignalFx|[Watch Here](https://www.youtube.com/watch?v=HmKAjIlImcU)| [Slides](https://static.sched.com/hosted_files/kccncna19/05/No-Nonsense%20Observability%20Improvement.pdf) |
+|From Issue to PR Merged: A Fluentd “Tail” - Jordan Hamel, Amgen|[Watch Here](https://www.youtube.com/watch?v=P1ONBKIxz7w)| [Slides](https://static.sched.com/hosted_files/kccncna19/6c/fluentd-tail-prezi-convert-compressed.pdf) |
+|Weighing a Cloud: Measuring Your Kubernetes Clusters - Han Kang, Google & Elana Hashman, Red Hat|[Watch Here](https://www.youtube.com/watch?v=BknenxQ_NLQ)| [Slides](https://static.sched.com/hosted_files/kccncna19/95/Weighing%20a%20Cloud%3A%20Measuring%20Your%20Kubernetes%20Clusters.pdf) |
+|Doing Things Prometheus Can’t Do with Prometheus - Tim Simmons, DigitalOcean| [Watch Here](https://www.youtube.com/watch?v=pRmnh8lgjsU)| [Slides](https://static.sched.com/hosted_files/kccncna19/71/Doing%20Things%20Prometheus%20Can%27t%20Do%20With%20Prometheus%20-%20FINAL.pdf)|
+|Shipping Metrics From the Edge - Matthias Loibl, Red Hat| [Watch Here](https://www.youtube.com/watch?v=FrcfxkbJH20)| [Slides](https://static.sched.com/hosted_files/kccncna19/a1/Shipping_Metrics_from_the_Edge.pdf) |
+|Beyond Getting Started: Using OpenTelemetry to Its Full Potential - Sergey Kanzhelev & Morgan McLean|[Watch Here](https://www.youtube.com/watch?v=FlghuHDlQdM)| [Slides](https://static.sched.com/hosted_files/kccncna19/f2/kubecon-na-2019-ot-beyond-getting-started.pdf) |
+|How to Include Latency in SLO-based Alerting - Björn Rabenstein, Grafana Labs|[Watch Here](https://www.youtube.com/watch?v=X99X-VDzxnw)| [Slides](https://static.sched.com/hosted_files/kccncna19/24/slides.pdf) |
+|Debugging Live Applications the Kubernetes Way: From a Sidecar - Joe Elliott, Grafana Labs|[Watch Here](https://www.youtube.com/watch?v=yNTc2-i9arg)| [Slides](https://static.sched.com/hosted_files/kccncna19/b3/2019-11%20NA%20Kubecon%20-%20Debugging%20Live%20Applications%20in%20Kubernetes.pdf) |
+|The Great Cardinality Disasters of Our Time - Bryan Boreham, Weaveworks & Chris Marchbanks, Splunk| [Watch Here](https://www.youtube.com/watch?v=6f9z9JSNOGk)| [Slides](https://static.sched.com/hosted_files/kccncna19/2c/great_cardinality_disasters_of_our_time.pdf) |
+|Deep Linking Metrics and Traces with OpenTelemetry, OpenMetrics and M3 - Rob Skillington|[Watch Here](https://www.youtube.com/watch?v=TzNZIEvhAdA)| [Slides](https://static.sched.com/hosted_files/kccncna19/2e/Deep%20Linking%20Metrics%20and%20Traces%20with%20OpenTelemetry%2C%20OpenMetrics%2C%20Prometheus%20and%20M3%20%281%29.pdf) |
+|Exporting Kubernetes Event Objects for Better Observability - Mustafa Akın & Ahmet Şeker, Atlassian|[Watch Here](https://www.youtube.com/watch?v=_s0o_xAF3Pg)| [Slides](https://static.sched.com/hosted_files/kccncna19/d0/Exporting%20K8s%20Events.pdf)|
 
 ## Application + Development
 
