@@ -1,7 +1,7 @@
 
 ## Keynote
  
-| Topic        |      Video     |  Presentation |
+| Topic        |      Youtube(Video)     |  Sched(Slides) |
 | ------------- |:-------------:| -----:|
 |Keynote: Finding the Joy in Chaos Engineering - Ana Medina & Lenny Sharpe|[Video](https://www.youtube.com/watch?v=dsCMfi5YPnE)| [Presentation](https://static.sched.com/hosted_files/kccncna19/17/4-Ana%20and%20Lenny-NEW%20V4.pdf)|
 |Keynote: Seamless Customer Experience at Walmart Stores Powered b... Maneesh Vittolia & Sriram Komma|[Video](https://www.youtube.com/watch?v=sfPFrvDvdlk)| [Presentation](https://static.sched.com/hosted_files/kccncna19/20/3%20Manesh%20and%20Siram%20New%20V2.pptx.pdf) |
