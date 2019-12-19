@@ -440,7 +440,7 @@ SIG-Network Intro & Deep-Dive - Tim Hockin, Google & Vallery Lancey, Lyft|[Video
 |Lightning Talk - Connecting and Migrating Heterogeneous Applications with Consul Service Mesh - Luke Kysow, HashiCorp| [Video](https://www.youtube.com/watch?v=v-ZYkGYi3jQ)| [Presentation](https://static.sched.com/hosted_files/servicemeshcon2019/af/ServiceMeshCon%20Connecting%20and%20Migrating%20Heterogeneous%20Applications%20with%20Consul%20Service%20Mesh.pdf)|
 |The Truth About the Service Mesh Data Plane - Christian Posta, Solo.io| [Video](https://www.youtube.com/watch?v=bmf0JQtDJL4)| - |
 |Service Mesh Interface: Developer Friendly APIs for Service Mesh - Lachlan Evenson & Michelle Noorali, Microsoft| [Video](https://www.youtube.com/watch?v=KXTBqzqQ_1o)| - |
-|Leveraging Service Meshes for A/B, Blue-Green, and Canary Deployments (aka "Progressive Delivery") - Paul Curtis, Weaveworks| [Video](https://www.youtube.com/watch?v=G4TwL5RfXNQ)| [Presentation(https://static.sched.com/hosted_files/servicemeshcon2019/b3/Flagger%20-%20ServiceMeshCon%202019.pdf)|
+|Leveraging Service Meshes for A/B, Blue-Green, and Canary Deployments (aka "Progressive Delivery") - Paul Curtis, Weaveworks| [Video](https://www.youtube.com/watch?v=G4TwL5RfXNQ)| [Presentation](https://static.sched.com/hosted_files/servicemeshcon2019/b3/Flagger%20-%20ServiceMeshCon%202019.pdf)|
 |Making Sense of the Mesh: A Conceptual Model for Service Mesh Topologies - Mitch Connors & Mandar Jog, Google| [Video](https://www.youtube.com/watch?v=gGHO_swIuKw)| [Presentation](https://static.sched.com/hosted_files/servicemeshcon2019/d6/Making%20Sense%20of%20the%20Mesh.pptx)|
 
 
