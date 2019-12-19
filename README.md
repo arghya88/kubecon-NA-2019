@@ -431,7 +431,13 @@ SIG-Network Intro & Deep-Dive - Tim Hockin, Google & Vallery Lancey, Lyft|[Video
 
 | Topic        |      Youtube(Video)     |  Sched(Slides) |
 | ------------- |:-------------:| -----:|
+|Opening - Lin Sun, IBM| [Video](https://www.youtube.com/watch?v=ZbprdvsWARs)| - |
+|Buoyant Sponsored Session - William Morgan, Buoyant| [Video](https://www.youtube.com/watch?v=t1hgeO9oVsM)| - |
 |There’s A Bug in My Service Mesh! What Do You Do When the Tool You Rely On is the Cause? - Ana Calin, Paybase & Risha Mars, Buoyant| [Video](https://www.youtube.com/watch?v=osmkhn3HYUU)| - |
+|IBM Sponsored Session - Dramatic UX Improvement and Analytics-driven Canary Deployment with Istio - Dan Berg, IBM| [Video](https://www.youtube.com/watch?v=eQocPw2T1W8)| - |
+|Ask Me Anything About Service Mesh| [Video](https://www.youtube.com/watch?v=mIg4cje3blo)| - |
+|Solo.io Sponsored Session - Idit Levine, Solo.io| [Video](https://www.youtube.com/watch?v=sZHTbWRueU8)| - |
+|Google Cloud Sponsored Session - Istio Adoption Journeys - Sean Suchter, Google| [Video](https://www.youtube.com/watch?v=SueLsDTzH9c)| - | 
 |IBM App Connect's Journey to Istio - Greg Hanson, IBM| [Video](https://www.youtube.com/watch?v=XiYQOMCuz4U)| [Presentation](https://static.sched.com/hosted_files/servicemeshcon2019/43/app-connect-journey-to-istio.pptx)|
 |Control Plane for Large Mesh in a Heterogeneous Environment - Fuyuan Bie & Zhimeng Shi, Pinterest| [Video](https://www.youtube.com/watch?v=HkbSS7Af9n0)| [Presentation](https://static.sched.com/hosted_files/servicemeshcon2019/1c/Control%20Plane%20for%20a%20Mesh%20in%20a%20Heterogeneous%20Environment.pdf)|
 |How Google Manages Sidecars for Millions of Containers Without Breaking Anything (Much) - Sven Mawson, Google Cloud| [Video](https://www.youtube.com/watch?v=SYMsFfd8mVA)| [Presentation](https://static.sched.com/hosted_files/servicemeshcon2019/6c/How%20Google%20Manages%20Millions%20of%20Sidecars.pdf)|
