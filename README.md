@@ -430,17 +430,17 @@ SIG-Network Intro & Deep-Dive - Tim Hockin, Google & Vallery Lancey, Lyft|[Video
 ## ServiceMeshCon
 | Topic        |      Youtube(Video)     |  Sched(Slides) |
 | ------------- |:-------------:| -----:|
-|There’s A Bug in My Service Mesh! What Do You Do When the Tool You Rely On is the Cause? - Ana Calin, Paybase & Risha Mars, Buoyant| [Video]()| [Slides]()|
-|IBM App Connect's Journey to Istio - Greg Hanson, IBM| [Video]()| [Slides](https://static.sched.com/hosted_files/servicemeshcon2019/43/app-connect-journey-to-istio.pptx)|
-|Control Plane for Large Mesh in a Heterogeneous Environment - Fuyuan Bie & Zhimeng Shi, Pinterest| [Video]()| [Slides](https://static.sched.com/hosted_files/servicemeshcon2019/1c/Control%20Plane%20for%20a%20Mesh%20in%20a%20Heterogeneous%20Environment.pdf)|
-|How Google Manages Sidecars for Millions of Containers Without Breaking Anything (Much) - Sven Mawson, Google Cloud| [Video]()| [Slides](https://static.sched.com/hosted_files/servicemeshcon2019/6c/How%20Google%20Manages%20Millions%20of%20Sidecars.pdf)|
-|Collaboration is Important for Admission Webhooks in Service Meshes - Alejandro Pedraza, Buoyant| [Video]()| [Slides](https://static.sched.com/hosted_files/servicemeshcon2019/38/Admission%20Webhooks.pdf)|
-|An Intro to Network Service Mesh (NSM) and Its Relationship to Service Mesh - John Joyce & Tim Swanson, Cisco| [Video]()| [Slides]()|
-|Lightning Talk - Connecting and Migrating Heterogeneous Applications with Consul Service Mesh - Luke Kysow, HashiCorp| [Video]()| [Slides](https://static.sched.com/hosted_files/servicemeshcon2019/af/ServiceMeshCon%20Connecting%20and%20Migrating%20Heterogeneous%20Applications%20with%20Consul%20Service%20Mesh.pdf)|
-|The Truth About the Service Mesh Data Plane - Christian Posta, Solo.io| [Video]()| [Slides]()|
-|Service Mesh Interface: Developer Friendly APIs for Service Mesh - Lachlan Evenson & Michelle Noorali, Microsoft| [Video]()| [Slides]()|
-|Leveraging Service Meshes for A/B, Blue-Green, and Canary Deployments (aka "Progressive Delivery") - Paul Curtis, Weaveworks| [Video]()| [Slided](https://static.sched.com/hosted_files/servicemeshcon2019/b3/Flagger%20-%20ServiceMeshCon%202019.pdf)|
-|Making Sense of the Mesh: A Conceptual Model for Service Mesh Topologies - Mitch Connors & Mandar Jog, Google| [Video]()| [Slides](https://static.sched.com/hosted_files/servicemeshcon2019/d6/Making%20Sense%20of%20the%20Mesh.pptx)|
+|There’s A Bug in My Service Mesh! What Do You Do When the Tool You Rely On is the Cause? - Ana Calin, Paybase & Risha Mars, Buoyant| [Video](https://www.youtube.com/watch?v=osmkhn3HYUU)| [-|
+|IBM App Connect's Journey to Istio - Greg Hanson, IBM| [Video](https://www.youtube.com/watch?v=XiYQOMCuz4U)| [Presentation](https://static.sched.com/hosted_files/servicemeshcon2019/43/app-connect-journey-to-istio.pptx)|
+|Control Plane for Large Mesh in a Heterogeneous Environment - Fuyuan Bie & Zhimeng Shi, Pinterest| [Video](https://www.youtube.com/watch?v=HkbSS7Af9n0)| [Presentation](https://static.sched.com/hosted_files/servicemeshcon2019/1c/Control%20Plane%20for%20a%20Mesh%20in%20a%20Heterogeneous%20Environment.pdf)|
+|How Google Manages Sidecars for Millions of Containers Without Breaking Anything (Much) - Sven Mawson, Google Cloud| [Video](https://www.youtube.com/watch?v=SYMsFfd8mVA)| [Presentation](https://static.sched.com/hosted_files/servicemeshcon2019/6c/How%20Google%20Manages%20Millions%20of%20Sidecars.pdf)|
+|Collaboration is Important for Admission Webhooks in Service Meshes - Alejandro Pedraza, Buoyant| [Video](https://www.youtube.com/watch?v=ThPXoHWCKuo)| [Presentation](https://static.sched.com/hosted_files/servicemeshcon2019/38/Admission%20Webhooks.pdf)|
+|An Intro to Network Service Mesh (NSM) and Its Relationship to Service Mesh - John Joyce & Tim Swanson, Cisco| [Video](https://www.youtube.com/watch?v=Dlb98OhtHrk)|-|
+|Lightning Talk - Connecting and Migrating Heterogeneous Applications with Consul Service Mesh - Luke Kysow, HashiCorp| [Video](https://www.youtube.com/watch?v=v-ZYkGYi3jQ)| [Presentation](https://static.sched.com/hosted_files/servicemeshcon2019/af/ServiceMeshCon%20Connecting%20and%20Migrating%20Heterogeneous%20Applications%20with%20Consul%20Service%20Mesh.pdf)|
+|The Truth About the Service Mesh Data Plane - Christian Posta, Solo.io| [Video](https://www.youtube.com/watch?v=bmf0JQtDJL4)|-|
+|Service Mesh Interface: Developer Friendly APIs for Service Mesh - Lachlan Evenson & Michelle Noorali, Microsoft| [Video](https://www.youtube.com/watch?v=KXTBqzqQ_1o)|-|
+|Leveraging Service Meshes for A/B, Blue-Green, and Canary Deployments (aka "Progressive Delivery") - Paul Curtis, Weaveworks| [Video](https://www.youtube.com/watch?v=G4TwL5RfXNQ)| [Presentation(https://static.sched.com/hosted_files/servicemeshcon2019/b3/Flagger%20-%20ServiceMeshCon%202019.pdf)|
+|Making Sense of the Mesh: A Conceptual Model for Service Mesh Topologies - Mitch Connors & Mandar Jog, Google| [Video](https://www.youtube.com/watch?v=gGHO_swIuKw)| [Presentation](https://static.sched.com/hosted_files/servicemeshcon2019/d6/Making%20Sense%20of%20the%20Mesh.pptx)|
 
 
 
