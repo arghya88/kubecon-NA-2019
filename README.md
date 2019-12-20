@@ -463,15 +463,15 @@ SIG-Network Intro & Deep-Dive - Tim Hockin, Google & Vallery Lancey, Lyft|[Video
 |Spanning the Globe with Envoy at Stripe - Dylan Carney, Stripe| [Video](https://www.youtube.com/watch?v=QYCsd4Ptwzo)| [Presentation](https://static.sched.com/hosted_files/envoycon2019/4a/dylan-carney-envoycon.pdf)|
 |From Microbenchmarks to HTTP2 Load-testing: 5 Performance Tools and Techniques to Improve Envoy Scalability - Joshua Marantz, Google & Otto van der Schaaf, We-Amp B.V.| [Video](https://www.youtube.com/watch?v=0zNgqhyz5T4)| [Presentation](https://static.sched.com/hosted_files/envoycon2019/27/EnvoyCon%20Perf%20Tools%202019%20v2.pdf)|
 |Service Mesh in Kubernetes: It’s Not That Easy - Lita Cho & Tom Wanielista, Lyft| [Video](https://www.youtube.com/watch?v=BTuDY2naDJI&t=43s)| [Presentation](https://static.sched.com/hosted_files/envoycon2019/34/EnvoyCon%202019_%20Lita%20%26%20Tom.pdf)|
-|Dynamic Request Routing With Envoy - Ben Plotnick, Cruise| [Video]()| [Presentation](https://static.sched.com/hosted_files/envoycon2019/7b/Dynamic%20Request%20Routing%20with%20Envoy.pdf)|
-|Building Low Latency Topologies with Envoy - John Howard, Google, Snow Petterson, Square, Liam White, Tetrate| [Video]()| [Presentation](https://static.sched.com/hosted_files/envoycon2019/4e/Building%20Low%20Latency%20Topologies%20with%20Envoy.pdf)|
-|Overview of Authentication and Authorization Features in Envoy - Wayne Zhang & Yangmin Zhu, Google| [Video]()| [Presentation](https://static.sched.com/hosted_files/envoycon2019/86/Overview%20of%20Authentication%20and%20Authorization%20Features%20in%20Envoy.pdf)|
-|Graph-based ML Anomaly Detection and Insights for Envoy Systems - Anoop Koloth & Hanzhang Wang, eBay| [Video]()| [Presentation](https://static.sched.com/hosted_files/envoycon2019/18/EnvoyCon.pdf)|
-|The Universal Dataplane API (UDPA): Envoy's Next Generation APIs - Harvey Tuch, Google| [Video]()| [Presentation](https://static.sched.com/hosted_files/envoycon2019/ac/EnvoyCon%20UDPA%202019.pdf)|
-|Livin' on the Edge (of your cluster) - Nick Young, VMWare| [Video]()| - |
+|Dynamic Request Routing With Envoy - Ben Plotnick, Cruise| - | [Presentation](https://static.sched.com/hosted_files/envoycon2019/7b/Dynamic%20Request%20Routing%20with%20Envoy.pdf)|
+|Building Low Latency Topologies with Envoy - John Howard, Google, Snow Petterson, Square, Liam White, Tetrate| - | [Presentation](https://static.sched.com/hosted_files/envoycon2019/4e/Building%20Low%20Latency%20Topologies%20with%20Envoy.pdf)|
+|Overview of Authentication and Authorization Features in Envoy - Wayne Zhang & Yangmin Zhu, Google| - | [Presentation](https://static.sched.com/hosted_files/envoycon2019/86/Overview%20of%20Authentication%20and%20Authorization%20Features%20in%20Envoy.pdf)|
+|Graph-based ML Anomaly Detection and Insights for Envoy Systems - Anoop Koloth & Hanzhang Wang, eBay| [ - | [Presentation](https://static.sched.com/hosted_files/envoycon2019/18/EnvoyCon.pdf)|
+|The Universal Dataplane API (UDPA): Envoy's Next Generation APIs - Harvey Tuch, Google| [ - | [Presentation](https://static.sched.com/hosted_files/envoycon2019/ac/EnvoyCon%20UDPA%202019.pdf)|
+|Livin' on the Edge (of your cluster) - Nick Young, VMWare| [ - | - |
 |Evolution of Envoy as a Dynamic Redis Proxy - Nicolas Flacco & Henry Yang, Lyft, Mitch Sulaski, Workday| [Video](https://www.youtube.com/watch?v=SWVGENzonHE)| [Presentation](https://static.sched.com/hosted_files/envoycon2019/d1/EnvoyCon2019%20%281%29.pdf)|
-|Solving Microservice Murder Mysteries with Envoy's Tap Filter - Mitch Kelley, Solo.io| [Video]()| [Presentation](https://static.sched.com/hosted_files/envoycon2019/da/Solving%20Microservice%20MysteriesStatic_v2.pdf)|
-|Making Envoy Sustainable - Cynthia Coan, Datawire| [Video]()| [Presentation](https://static.sched.com/hosted_files/envoycon2019/32/pdf-sustainability.pdf)|
+|Solving Microservice Murder Mysteries with Envoy's Tap Filter - Mitch Kelley, Solo.io| [ - | [Presentation](https://static.sched.com/hosted_files/envoycon2019/da/Solving%20Microservice%20MysteriesStatic_v2.pdf)|
+|Making Envoy Sustainable - Cynthia Coan, Datawire| - | [Presentation](https://static.sched.com/hosted_files/envoycon2019/32/pdf-sustainability.pdf)|
 
 
 
