@@ -467,7 +467,7 @@ SIG-Network Intro & Deep-Dive - Tim Hockin, Google & Vallery Lancey, Lyft|[Video
 |Building Low Latency Topologies with Envoy - John Howard, Google, Snow Petterson, Square, Liam White, Tetrate| - | [Presentation](https://static.sched.com/hosted_files/envoycon2019/4e/Building%20Low%20Latency%20Topologies%20with%20Envoy.pdf)|
 |Overview of Authentication and Authorization Features in Envoy - Wayne Zhang & Yangmin Zhu, Google| - | [Presentation](https://static.sched.com/hosted_files/envoycon2019/86/Overview%20of%20Authentication%20and%20Authorization%20Features%20in%20Envoy.pdf)|
 |Graph-based ML Anomaly Detection and Insights for Envoy Systems - Anoop Koloth & Hanzhang Wang, eBay| - | [Presentation](https://static.sched.com/hosted_files/envoycon2019/18/EnvoyCon.pdf)|
-|The Universal Dataplane API (UDPA): Envoy's Next Generation APIs - Harvey Tuch, Google| [ - | [Presentation](https://static.sched.com/hosted_files/envoycon2019/ac/EnvoyCon%20UDPA%202019.pdf)|
+|The Universal Dataplane API (UDPA): Envoy's Next Generation APIs - Harvey Tuch, Google| - | [Presentation](https://static.sched.com/hosted_files/envoycon2019/ac/EnvoyCon%20UDPA%202019.pdf)|
 |Livin' on the Edge (of your cluster) - Nick Young, VMWare| - | - |
 |Evolution of Envoy as a Dynamic Redis Proxy - Nicolas Flacco & Henry Yang, Lyft, Mitch Sulaski, Workday| [Video](https://www.youtube.com/watch?v=SWVGENzonHE)| [Presentation](https://static.sched.com/hosted_files/envoycon2019/d1/EnvoyCon2019%20%281%29.pdf)|
 |Solving Microservice Murder Mysteries with Envoy's Tap Filter - Mitch Kelley, Solo.io| - | [Presentation](https://static.sched.com/hosted_files/envoycon2019/da/Solving%20Microservice%20MysteriesStatic_v2.pdf)|
