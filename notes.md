@@ -6,7 +6,7 @@ Pivotal and Heroku presented intro to cloud native builpdack. Cloud native build
 There is a simillar but non overlapping project called cnab.io.
 
 
-[Video] (https://www.youtube.com/watch?v=SK6e_ZatOaw)
+| [Video] (https://www.youtube.com/watch?v=SK6e_ZatOaw) |
 
 Pivotal and Heroku presented deep dive on cloud native buildpacks.
 
