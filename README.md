@@ -473,6 +473,23 @@ SIG-Network Intro & Deep-Dive - Tim Hockin, Google & Vallery Lancey, Lyft|[Video
 |Solving Microservice Murder Mysteries with Envoy's Tap Filter - Mitch Kelley, Solo.io| [Video](https://www.youtube.com/watch?v=qJHZVEAu6-A)| [Presentation](https://static.sched.com/hosted_files/envoycon2019/da/Solving%20Microservice%20MysteriesStatic_v2.pdf)|
 |Making Envoy Sustainable - Cynthia Coan, Datawire| [Video](https://www.youtube.com/watch?v=Eh2bV9KZlXM)| [Presentation](https://static.sched.com/hosted_files/envoycon2019/32/pdf-sustainability.pdf)|
 
+## Observability Summit
+
+| Topic        |      Youtube(Video)     |  Sched(Slides) |
+| ------------- |:-------------:| -----:|
+|LightStep Sponsored Session: Observability for Deep Systems - Spoons (aka Daniel Spoonhower), LightStep| [Video](https://www.youtube.com/watch?v=G080fpaAtaI)| [Presentation](https://static.sched.com/hosted_files/ops2019/51/Observability%20for%20Deep%20Systems%20%28%40save_spoons%2C%20OPS%20%2719%29.pdf)|
+|Tracing is for Everyone, Not Just Backend Engineers. (How Tracing Could Help Front-end Engineers to Build a Better UX) - Nina Stawski, Omnition| [Video](https://www.youtube.com/watch?v=3-4o39H0Trg)| [Presentation](https://static.sched.com/hosted_files/ops2019/3a/Tracing%20is%20for%20everyone.pdf)|
+|Real-Time Application Maps for Proactive and Actionable Visibility - Aloke Guha, OpsCruise| [Video](https://www.youtube.com/watch?v=389nwo2X2iM)| [Presentation](https://static.sched.com/hosted_files/ops2019/f2/Obs_Summit_2019_OpsCruise.pdf)|
+|SlackTrace: A New Tracing Tool - Suman Karumuri, Slack| [Video](https://www.youtube.com/watch?v=TY51M-mPAG8)| [Presentation](https://static.sched.com/hosted_files/ops2019/89/SlackTrace_%20Observability%20Summit%20%282%29.pdf)|
+|LeitMotif: An Abstraction for Debugging Distributed Applications - Mania Abdi, Northeastern University| [Video](https://www.youtube.com/watch?v=SHSJzxiuV-Y)| - |
+|When Connections are Magic: Understanding Performance in Serverless - James Burns, LightStep| [Video](https://www.youtube.com/watch?v=qYAUOJ-00AM)| [Presentation](https://static.sched.com/hosted_files/ops2019/cc/OPS%202019%20-%20Magic.pdf)|
+|A Picture is Worth 1,000 Traces - Steve Flanders, Splunk & Yuri Shkuro, Uber Technologies| [Video](https://www.youtube.com/watch?v=rMSqgSFuBi0)| - |
+|Testing in A Distributed Systems World - Fernando Mayo, Undefined Labs| [Video](https://www.youtube.com/watch?v=hQSCnJ3kj2M)| [Presentation](https://static.sched.com/hosted_files/ops2019/20/OPS%202019%20Testing%20in%20a%20distributed%20world.pdf)|
+|Pythia: An Automated, Cross-layer Instrumentation Framework for Diagnosing Performance Problems in Distributed Applications - Emre Ates, Boston University| [Video](https://www.youtube.com/watch?v=8WdBl5k9sAY)| [Presentation](https://static.sched.com/hosted_files/ops2019/dc/2019-11-18%20Observability%20Summit.pdf)|
+|Dynatrace Sponsored Session - Observability Where are We Headed? - Alois Reitbauer, Dynatrace| [Video](https://www.youtube.com/watch?v=p15AiwK77zc)| - |
+|New Relic Sponsored Session - Mike Panchenko, New Relic| [Video](https://www.youtube.com/watch?v=cRW1vt9TFP4) | - |
+|Reliable Observability at Scale: Error Budgets for 1,000+ - Fred Moyer, Zendesk| [Video](https://www.youtube.com/watch?v=fKAqUyN9WsU)| [Presentation](https://static.sched.com/hosted_files/ops2019/69/Reliable%20Observability%20at%20Scale.pdf)|
+
 
 
 
